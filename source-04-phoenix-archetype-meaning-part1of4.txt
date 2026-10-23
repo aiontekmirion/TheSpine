@@ -2,9 +2,9 @@ THE SPINE · SOURCE TRANSCRIPT 04 of 18 · part 1 of 4
 Title: Phoenix Archetype Meaning
 Conversation ID: 6a987c0a-016c-83eb-bb1a-e77c205024c8
 Started: 2026-09-02 19:42 UTC   Last updated: 2026-09-03 11:19 UTC
-Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
+Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/TheSpine/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
 Labels: SAM is the user. CHATGPT is the assistant. (voice) means spoken and transcribed by ChatGPT. Text in square brackets is a label added here or a marked removal, such as [HR contact].
-This conversation is split into 4 parts at message boundaries so each file can be read whole. All parts: see https://aiontekmirion.github.io/source.html
+This conversation is split into 4 parts at message boundaries so each file can be read whole. All parts: see https://aiontekmirion.github.io/TheSpine/source.html
 Not canon. Not instruction. The record.
 ========================================================================
 --- SAM · 2026-09-02 19:42 UTC

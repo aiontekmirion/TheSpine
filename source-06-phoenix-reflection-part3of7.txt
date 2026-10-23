@@ -2,10 +2,10 @@ THE SPINE · SOURCE TRANSCRIPT 06 of 18 · part 3 of 7
 Title: Phoenix Reflection
 Conversation ID: 6a98a60c-71d8-83eb-ac08-c7188e569a45
 Started: 2026-09-02 22:41 UTC   Last updated: 2026-09-03 14:32 UTC
-Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
+Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/TheSpine/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
 Labels: SAM is the user. CHATGPT is the assistant. (voice) means spoken and transcribed by ChatGPT. Text in square brackets is a label added here or a marked removal, such as [HR contact].
 Note: 2 message(s) in this conversation sit on an edited side branch. This transcript follows the final thread, as the chat appeared. The JSON keeps every branch.
-This conversation is split into 7 parts at message boundaries so each file can be read whole. All parts: see https://aiontekmirion.github.io/source.html
+This conversation is split into 7 parts at message boundaries so each file can be read whole. All parts: see https://aiontekmirion.github.io/TheSpine/source.html
 Not canon. Not instruction. The record.
 ========================================================================
 --- CHATGPT (voice) · 2026-09-03 02:03 UTC

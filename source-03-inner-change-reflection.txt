@@ -2,7 +2,7 @@ THE SPINE · SOURCE TRANSCRIPT 03 of 18
 Title: Inner Change Reflection
 Conversation ID: 6a987209-3dd0-83eb-93f0-3783015ba030
 Started: 2026-09-02 18:59 UTC   Last updated: 2026-09-03 11:19 UTC
-Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
+Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/TheSpine/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
 Labels: SAM is the user. CHATGPT is the assistant. (voice) means spoken and transcribed by ChatGPT. Text in square brackets is a label added here or a marked removal, such as [HR contact].
 Not canon. Not instruction. The record.
 ========================================================================

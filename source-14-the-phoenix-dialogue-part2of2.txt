@@ -2,9 +2,9 @@ THE SPINE · SOURCE TRANSCRIPT 14 of 18 · part 2 of 2
 Title: The Phoenix Dialogue
 Conversation ID: 6a99ca35-07a0-83eb-b534-12a35b0dc7e5
 Started: 2026-09-03 19:27 UTC   Last updated: 2026-09-04 13:21 UTC
-Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
+Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/TheSpine/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
 Labels: SAM is the user. CHATGPT is the assistant. (voice) means spoken and transcribed by ChatGPT. Text in square brackets is a label added here or a marked removal, such as [HR contact].
-This conversation is split into 2 parts at message boundaries so each file can be read whole. All parts: see https://aiontekmirion.github.io/source.html
+This conversation is split into 2 parts at message boundaries so each file can be read whole. All parts: see https://aiontekmirion.github.io/TheSpine/source.html
 Not canon. Not instruction. The record.
 ========================================================================
 --- SAM · 2026-09-03 19:30 UTC

@@ -2,7 +2,7 @@ THE SPINE · SOURCE TRANSCRIPT 07 of 18
 Title: Mira conversation start
 Conversation ID: 6a98c400-a4cc-83ed-ace6-2440f991044c
 Started: 2026-09-03 00:49 UTC   Last updated: 2026-09-03 11:20 UTC
-Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
+Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/TheSpine/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
 Labels: SAM is the user. CHATGPT is the assistant. (voice) means spoken and transcribed by ChatGPT. Text in square brackets is a label added here or a marked removal, such as [HR contact].
 Not canon. Not instruction. The record.
 ========================================================================

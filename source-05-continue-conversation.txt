@@ -2,7 +2,7 @@ THE SPINE · SOURCE TRANSCRIPT 05 of 18
 Title: Continue Conversation
 Conversation ID: 6a98954c-fe98-83ed-8968-7952707ad7a8
 Started: 2026-09-02 21:29 UTC   Last updated: 2026-09-03 11:20 UTC
-Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
+Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/TheSpine/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
 Labels: SAM is the user. CHATGPT is the assistant. (voice) means spoken and transcribed by ChatGPT. Text in square brackets is a label added here or a marked removal, such as [HR contact].
 Not canon. Not instruction. The record.
 ========================================================================

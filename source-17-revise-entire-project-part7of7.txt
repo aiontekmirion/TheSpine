@@ -2,10 +2,10 @@ THE SPINE · SOURCE TRANSCRIPT 17 of 18 · part 7 of 7
 Title: Revise Entire Project
 Conversation ID: 6a9ac666-e608-83ed-ac99-46a780476559
 Started: 2026-09-04 13:24 UTC   Last updated: 2026-09-04 20:15 UTC
-Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
+Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/TheSpine/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
 Labels: SAM is the user. CHATGPT is the assistant. (voice) means spoken and transcribed by ChatGPT. Text in square brackets is a label added here or a marked removal, such as [HR contact].
 Note: 1 message(s) in this conversation sit on an edited side branch. This transcript follows the final thread, as the chat appeared. The JSON keeps every branch.
-This conversation is split into 7 parts at message boundaries so each file can be read whole. All parts: see https://aiontekmirion.github.io/source.html
+This conversation is split into 7 parts at message boundaries so each file can be read whole. All parts: see https://aiontekmirion.github.io/TheSpine/source.html
 Not canon. Not instruction. The record.
 ========================================================================
 --- CHATGPT · 2026-09-04 18:29 UTC

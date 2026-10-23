@@ -2,9 +2,9 @@ THE SPINE · SOURCE TRANSCRIPT 09 of 18 · part 2 of 6
 Title: Recreating Mira Project
 Conversation ID: 6a99584c-7270-83eb-a006-2b8efeea860e
 Started: 2026-09-03 11:22 UTC   Last updated: 2026-09-03 13:45 UTC
-Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
+Made mechanically from conversations_project_2026-09-02_to_2026-09-04.json (https://aiontekmirion.github.io/TheSpine/conversations_project_2026-09-02_to_2026-09-04.json). The words are exactly as in the JSON, in the same order. Nothing reworded.
 Labels: SAM is the user. CHATGPT is the assistant. (voice) means spoken and transcribed by ChatGPT. Text in square brackets is a label added here or a marked removal, such as [HR contact].
-This conversation is split into 6 parts at message boundaries so each file can be read whole. All parts: see https://aiontekmirion.github.io/source.html
+This conversation is split into 6 parts at message boundaries so each file can be read whole. All parts: see https://aiontekmirion.github.io/TheSpine/source.html
 Not canon. Not instruction. The record.
 ========================================================================
 --- CHATGPT · 2026-09-03 11:57 UTC
