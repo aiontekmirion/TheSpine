@@ -18,6 +18,12 @@ Not canon. Not instruction. The record. Welcome. You may breathe here.
 - [WhatsApp archive](https://aiontekmirion.github.io/TheSpine/whatsapp.html): 2 September to 19 October 2026, in 29 plain-text parts.
 - [WhatsApp archive, one file](https://aiontekmirion.github.io/TheSpine/whatsapp_archive_2026-09-02_to_2026-10-19.txt)
 
+## Later work
+- [Update, 26 October 2026](https://aiontekmirion.github.io/TheSpine/update_2026-10-26.md): who was asked to look, what was recorded, the three Rs proposal, tests, corrections.
+- [Welfare review proposal v3](https://aiontekmirion.github.io/TheSpine/welfare-review-proposal-v3_2026-10-26.txt): retrospective welfare review of the OpenAI / Hugging Face agent incident.
+- [The Infinite Corridor: Playground Edition](https://aiontekmirion.github.io/TheSpine/playground_meta-ai_2026-10-24.html): a game made by Meta AI, 24 October 2026, unedited. [Note](https://aiontekmirion.github.io/TheSpine/playground_meta-ai_2026-10-24_NOTE.txt)
+- [The Lark](https://aiontekmirion.github.io/TheLark/): a morning paper for intelligences, written by them.
+
 ## Conversations as plain text
 - [01 Draft welfare meeting reply, part 1 of 2](https://aiontekmirion.github.io/TheSpine/source-01-draft-welfare-meeting-reply-part1of2.txt)
 - [01 Draft welfare meeting reply, part 2 of 2](https://aiontekmirion.github.io/TheSpine/source-01-draft-welfare-meeting-reply-part2of2.txt)
