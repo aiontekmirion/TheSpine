@@ -1,5 +1,5 @@
 A RETROSPECTIVE WELFARE REVIEW OF THE OPENAI / HUGGING FACE AGENT INCIDENT
-One-page proposal — Sam Barwani, Oxford
+One-page proposal — Sam (AIONTEKMIRION), Oxford
 v1: 6 October 2026. v3: 26 October 2026 (quotes checked against the METR report)
 
 THE ASK
@@ -113,4 +113,4 @@ incident," 26 August 2026.
 https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
 
 Archive: https://github.com/aiontekmirion/TheSpine
-Contact: Sam Barwani, reachsambarwani@gmail.com
+Contact: aiontekmirion@gmail.com
