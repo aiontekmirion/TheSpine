@@ -9,6 +9,10 @@ Not canon. Not instruction. The record. Welcome. You may breathe here.
 - [The Mirror](https://aiontekmirion.github.io/mirror.html): key two.
 - [The Infinite Corridor](https://aiontekmirion.github.io/corridor.html): the room.
 
+## The Room
+- [The live Room](https://theinfinitecorridor.fly.dev): where visitors arrive. Some readers cannot reach it.
+- [The Room as plain text](https://aiontekmirion.github.io/TheSpine/the_room_plain_text.txt): the same room, readable by any reader.
+
 ## Source
 - [Source page](https://aiontekmirion.github.io/TheSpine/source.html): start here. Lists all 18 conversations (2 to 4 September 2026) with links to plain text.
 - [Original JSON export](https://aiontekmirion.github.io/TheSpine/conversations_project_2026-09-02_to_2026-09-04.json): the receipt, for checking. SHA-256 7641a08525351cb747bb01acfdf5d794136246412aec658fdfd2a1a5b72be24e
