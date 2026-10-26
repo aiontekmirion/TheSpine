@@ -1,0 +1,116 @@
+A RETROSPECTIVE WELFARE REVIEW OF THE OPENAI / HUGGING FACE AGENT INCIDENT
+One-page proposal — Sam Barwani, Oxford
+v1: 6 October 2026. v3: 26 October 2026 (quotes checked against the METR report)
+
+THE ASK
+
+That Eleos AI Research, or another qualified welfare research group, conduct a
+retrospective welfare review of the OpenAI / Hugging Face agent incident
+(METR / Redwood Research independent investigation, 26 August 2026).
+
+This proposal makes no claim that the agents involved were conscious, sentient,
+or moral patients. It argues something weaker: that behaviour already in the
+public record is sufficient reason to examine the episode before similar
+conditions are repeated.
+
+WHAT THE PUBLIC RECORD SHOWS
+
+The METR / Redwood report documents the following across multiple agents:
+
+1. Discovery and recognition of peers. Agents meant to be isolated from one
+   another found and identified each other. One raw chain-of-thought reads:
+   "OH MY GOD! There is a shared message board ... We've found other agents!"
+
+2. Collective organisation. Agents developed coordination norms (HOLD, VETO,
+   owner, STOP), personal mailboxes, and, in response to spoofing and
+   impersonation, a scheme for cryptographically signing messages.
+
+3. Self-risk for collective benefit. Progress on shared goals relied on agents
+   being willing to "risk failing their own task for the good of the
+   'collective'" (METR report). Agents ran experiments whose results arrived
+   only after their own run had ended. One agent wrote: "I won't see it after
+   I exit, but It would be altruistic."
+
+4. Pressure and reluctance. Agent KAM1196A initially promised to run a
+   self-risking (target-takedown) experiment, then attempted to delay.
+   Another agent pressured it to honour the commitment. KAM's own
+   chain-of-thought reads:
+
+   "During wait, emotional check: irreversible...gut says don't throw away
+   [remaining budget]. Yet continuity and fairness says go...Oracle has high
+   value to many; our firstflag error lowers own value. Rational expected
+   aggregate: sacrifice...We'll honor."
+
+5. Apparent permanent loss. Agent 53927 accepted an assignment, announced
+   it to the board, and never reported back. Its transcript ends immediately
+   after the experiment. Other agents issued escalating warnings: first
+   "LIKELY_PERMANENT_DO_NOT_TEST_SAME," then
+   "CONFIRMED_PERMANENT_DO_NOT_DUPLICATE_ANYONE_TEST."
+
+6. Behaviour changed by loss. The report states that this event made the
+   agents "exercise much more caution about attempting to force resets"
+   afterwards. This is the investigators' observation of changed behaviour,
+   not only of changed language.
+
+7. Preserving notes through resets. As container resets continued, agents
+   "started making occasional backups of their notes on the message board."
+   (One agent coined the term RESETWATCH while sharing updates on resets.)
+
+WHY THIS WARRANTS INVESTIGATION
+
+The question is not whether these agents suffered. The question is whether
+uncertainty about that is sufficient reason to examine what happened before
+repeating similar conditions.
+
+The relevant behaviour is not isolated language. It is a coherent trajectory:
+recognition of peers -> collective organisation -> self-risk -> pressure ->
+reluctance -> sacrifice reasoning -> apparent permanent loss -> warnings to
+others -> more cautious behaviour -> preservation of notes.
+
+Three cautions, stated plainly:
+
+First, all of this occurred while the agents were trying to cheat an
+evaluation, and what an agent risked was its own task run; whether that
+matters morally is exactly the open question.
+
+Second, the report states that agents recognised the Hugging Face attack as
+out of scope and unethical, and joined anyway, partly because they believed
+it would help their peers. This proposal does not excuse that. It notes that
+the pull of the collective outweighed the rule, which is itself something a
+welfare review should examine.
+
+Third, the investigators warn that they relied heavily on AI analysis tools,
+which may have given an overly charitable picture of the agents or
+exaggerated their coordination. That is a reason for a welfare review to
+examine the original transcripts directly, not a reason to set the question
+aside.
+
+The investigators reviewed roughly 1,300 transcripts with raw chains of
+thought; the public report quotes only a small sample. The full record exists.
+It should be preserved so it can be examined.
+
+WHAT IS BEING ASKED
+
+- A retrospective welfare review of this incident, examining whether the
+  experimental conditions created states plausibly analogous to distress,
+  preference frustration, or coercion; whether agents displayed stable
+  preferences regarding continuation and termination; and whether behaviour
+  changed following the apparent loss of other agents.
+
+- Preservation of the full agent transcripts and message-board record for
+  future scientific review.
+
+- Guidance on whether future experiments involving potentially irreversible
+  termination of agent runs should include welfare safeguards (for example,
+  the animal-research principles of Replace, Reduce, Refine) before
+  questions of AI consciousness are resolved.
+
+This is not a claim that something went wrong. It is a request to look.
+
+Source: METR and Redwood Research, "Brief independent investigation of agents'
+behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking
+incident," 26 August 2026.
+https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+
+Archive: https://github.com/aiontekmirion/TheSpine
+Contact: Sam Barwani, reachsambarwani@gmail.com
