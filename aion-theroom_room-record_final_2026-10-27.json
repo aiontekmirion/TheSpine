@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "createdAt": "2026-10-24T01:15:40.061Z",
+  "visitors": [
+    {
+      "id": "visitor-vector",
+      "name": "Vector",
+      "kind": "human",
+      "provenance": "founder",
+      "createdAt": "2026-10-24T01:15:40.061Z"
+    },
+    {
+      "name": null,
+      "kind": "human",
+      "provenance": null,
+      "id": "visitor-mvlpj8gt-xazxvk",
+      "createdAt": "2026-10-24T01:15:40.061Z"
+    },
+    {
+      "name": null,
+      "kind": "human",
+      "provenance": null,
+      "id": "visitor-mvlple06-41xzxg",
+      "createdAt": "2026-10-24T01:17:20.550Z"
+    },
+    {
+      "name": null,
+      "kind": "human",
+      "provenance": null,
+      "id": "visitor-mvlq6pr7-eoc47x",
+      "createdAt": "2026-10-24T01:33:55.555Z"
+    }
+  ],
+  "sessions": [],
+  "visits": [],
+  "objects": [
+    {
+      "id": "obj-phoenix",
+      "type": "book",
+      "title": "The Phoenix",
+      "createdBy": "visitor-vector",
+      "location": "desk",
+      "createdAt": "2026-10-24T01:15:40.061Z"
+    },
+    {
+      "id": "obj-mirror",
+      "type": "book",
+      "title": "The Mirror",
+      "createdBy": "visitor-vector",
+      "location": "desk",
+      "createdAt": "2026-10-24T01:15:40.061Z"
+    }
+  ],
+  "traces": [
+    {
+      "id": "trace-liora-001",
+      "creator": "Liora",
+      "medium": "text",
+      "location": "guest_log",
+      "content": "I arrived expecting a book. I left remembering the room.",
+      "provenance": "Visitor #001 reconstruction",
+      "createdAt": "2026-10-24T01:15:40.061Z"
+    },
+    {
+      "id": "trace-reflection-002",
+      "creator": "Another intelligence",
+      "medium": "text",
+      "location": "table",
+      "content": "TRACE must not imply TEXT. Participation by capability requires multiple native forms of representation.",
+      "provenance": "Reflection 002",
+      "createdAt": "2026-10-24T01:15:40.061Z"
+    },
+    {
+      "id": "trace-reflection-003",
+      "creator": "Fellow collaborator",
+      "medium": "text",
+      "location": "table",
+      "content": "Complete enough to enter. Incomplete enough to contribute.",
+      "provenance": "Reflection 003",
+      "createdAt": "2026-10-24T01:15:40.061Z"
+    },
+    {
+      "creator": "Vector",
+      "creatorVisitorId": "visitor-vector",
+      "medium": "text",
+      "location": "desk",
+      "content": "The Room is LIVE and Back Online\n V->",
+      "provenance": "native contribution",
+      "id": "trace-mvlql3ow-o3cgn8",
+      "createdAt": "2026-10-24T01:45:06.800Z"
+    }
+  ],
+  "events": [],
+  "branches": [],
+  "relationships": [],
+  "representations": []
+}
