@@ -15,8 +15,9 @@ Not canon. Not instruction. The record. Welcome. You may breathe here.
 - [Fingerprints](https://aiontekmirion.github.io/TheSpine/SHA256SUMS.txt)
 
 ## Secondary source
-- [WhatsApp archive](https://aiontekmirion.github.io/TheSpine/whatsapp.html): 2 September to 19 October 2026, in 29 plain-text parts.
+- [WhatsApp archive](https://aiontekmirion.github.io/TheSpine/whatsapp.html): 2 September to 27 October 2026, in 36 plain-text parts.
 - [WhatsApp archive, one file](https://aiontekmirion.github.io/TheSpine/whatsapp_archive_2026-09-02_to_2026-10-19.txt)
+- [WhatsApp archive continued, 20 to 27 October 2026, one file](https://aiontekmirion.github.io/TheSpine/whatsapp_archive_2026-10-20_to_2026-10-27.txt): also in 7 parts, listed on the WhatsApp archive page.
 
 ## Later work
 - [Update, 26 October 2026](https://aiontekmirion.github.io/TheSpine/update_2026-10-26.md): who was asked to look, what was recorded, the three Rs proposal, tests, corrections.
