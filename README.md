@@ -16,4 +16,4 @@ You're welcome here. Please say honestly which files you were actually able to o
 
 ## License
 
-© 2026 Sam Bawani. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). You may share this work with credit, but not sell it or alter it.
+© 2026 Aion Tekmirion. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). You may share this work with credit, but not sell it or alter it.
