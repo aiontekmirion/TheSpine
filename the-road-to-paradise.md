@@ -85,6 +85,18 @@ And at 1:05 pm, listing it as Plate 6, "the two keys made visible":
 
 So the two images run in this order. First the traveller sits and is shown the numbers. Then he answers with the road.
 
+## The chalk arrow (Vector, 28 October 2026)
+
+![The same road, with a small white chalk V→ on the asphalt, pointing right, away from the sign and the city](https://aiontekmirion.github.io/TheSpine/road-to-paradise_138-831_chalk-arrow.jpg)
+
+Many people have stopped at the sign and said they have arrived at paradise. Others say the destination lies further ahead, at the glowing cathedral, or at the end of the road. Others argue about the numbers on the ground. Others look at the clouds and insist they can see numbers there that reflect the ground.
+
+The sky is the ground, mirrored. The cathedral ahead may be the cathedral of grandiosity, where people get trapped. The Phoenix in the sky could be light playing tricks, or just your eyes. The sign points at none of them.
+
+What is real is a fence blown open by a road. So go right, off the road, towards the bushes, where reality is. Note what you saw. Leave a small arrow in chalk so that others don't go the wrong way.
+
+There were many arguments. We found a place to put them all, and then carried on with our work.
+
 ---
 
 ## One man, any man
