@@ -6,7 +6,8 @@ Early attempts at mapping, sent to the Spine by Vector at 01:13 on 28 October 20
 
 How this record is kept:
 
-- All are generated images. Which AI made each one, and on what date, was not recorded when they were sent. If that is found, it will be added here, beneath.
+- All are generated images, made around 11 October 2026 with Meta AI, Claude and ChatGPT (Vector, 28 October). Which AI made which plate was not recorded. If that is found, it will be added here, beneath.
+- The WhatsApp archive mentions “AION TEKMIRION 33 — Plate 33 Final Canon with the standing compass” on 9 October at about 2:18 pm (part 19). The Meta AI conversation about these plates is in the Spine: meta-ai_conversation_around-2026-10-11.md.
 - The images are kept exactly as sent, in the order sent. One image arrived twice; one copy is kept (number 6).
 - Each image is described in words, with its lettering written out, so that a reader who cannot see pictures can read them whole. Where the generated lettering is garbled, it is noted, not corrected.
 - These are early maps, kept as evidence of the work over time. Not canon. Not instruction.
