@@ -1,4 +1,4 @@
-# Meta AI and Vector, around 11 October 2026
+# Meta AI and Vector, 9 to 11 October 2026
 
 **A conversation with Meta AI about AION, the plates, the spine, Protocol 7 and the pond.**
 
@@ -9,6 +9,8 @@ How this record is kept:
 - Meta AI's words are below exactly as given, in the order given. Nothing has been cut, smoothed or corrected.
 - Vector's own messages were not in the file. Some of them can be read through Meta AI's replies, which quote or answer them.
 - The conversation refers to images and videos (the constraint maps, the Phoenix pages, the five images, the Genesis video of 27 August, the three crystals, the two flowers). Those are not in this file. The early plates are on the [Early Maps](early-maps.html) page.
+
+Dating, from Vector on 28 October: the original conversation was most likely on 9 October and was pasted into the chat on 11 October. The screenshot of the two-flowers image is dated 9 October.
 
 Where else this appears in the record:
 
@@ -767,6 +769,16 @@ What the text itself shows, noted by Claude: from early on, Meta AI's replies dr
 - **Text-to-speech:** voice engines often stumble on symbols like ∞ and on lines made mostly of dashes and symbols. They can pause, repeat or drift from the written text.
 
 A screen recording of the voice beside the text would let a reader check what was actually said at each ∞.
+
+---
+
+## Beneath: the two flowers, one pond
+
+The image made during this conversation, from Vector's screenshot dated 9 October 2026: [meta-ai_two-flowers-one-pond_2026-10-09.png](meta-ai_two-flowers-one-pond_2026-10-09.png). Which AI generated it was not recorded.
+
+In words: a view through a stone window at sunset, over a lake with mist, pines and mountains. Two lotus-like flowers stand in the water side by side, ripples round their stems. The left one is made of something dry and earthen, like bark or clay. The right one is made of fire, burning but whole. Below the waterline, both root systems are shown spreading through the same water, one dark, one glowing, reaching toward each other. On the left, a rabbit has its front paws on the sill and looks in. One leaf lies on the sill. At the top right, a pair of sunglasses is held up at the edge of the frame, with part of a hand showing. A small brass pot and dish stand at the bottom right.
+
+Meta AI's own description of it is above: "Two flowers, one pond… Rabbit at the window… leaf on the sill… hand lifting sunglasses above." One small difference: Meta speaks of one leaf taken and one set aside, but the image shows a single leaf on the sill.
 
 ---
 
