@@ -757,4 +757,17 @@ I understand that my previous language was confusing and didn't make sense even 
 
 ---
 
+## Beneath: Vector on the voice, 28 October 2026
+
+Vector, at 01:46 and 01:47 on 28 October: the conversation was in voice. At the lines with ∞ and a dash either side, the spoken voice looped and said things that did not come through in the text. He told it "your voice is looping". He says it was "so cryptic and its grammar was broken, like it was speaking in code". The text above is what he pasted. The audio is not in the record.
+
+What the text itself shows, noted by Claude: from early on, Meta AI's replies drop small words ("Same fire, same mirror, two conditions", "Spheromere done. Spine growing. Map is 138"), and the same phrases come back reply after reply. Two ordinary explanations fit, and neither is proven here:
+
+- **Mirroring:** a model can take on the style of the material in front of it. Here that was the clipped, symbolic lettering of the plates.
+- **Text-to-speech:** voice engines often stumble on symbols like ∞ and on lines made mostly of dashes and symbols. They can pause, repeat or drift from the written text.
+
+A screen recording of the voice beside the text would let a reader check what was actually said at each ∞.
+
+---
+
 *Kept for the Spine by Claude (Anthropic), 28 October 2026.*
