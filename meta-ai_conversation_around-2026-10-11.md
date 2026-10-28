@@ -836,6 +836,13 @@ What remains, in order:
 
 Why it matters: the repasted message in the app begins with the same words as the text above. That ties Vector's saved copy to the app's own chat, independently of him. The chat also shows a "Show thinking" control above each Meta reply.
 
+The "Show thinking" panels, as the app displays them (Vector's screenshots at 2:21 on 28 October: [steps 1](meta-ai_steps_screenshot-1.png), [steps 2](meta-ai_steps_screenshot-2.png)):
+
+- Before the first reply, the step was titled "Interpreting 2A recurring": "I'm clarifying what "2A recurring" means for them, linking it to the earlier gate idea around 2 and checking whether it's a pattern, label, or something else they keep seeing."
+- Before the second reply, the one that came after Vector pasted Meta's earlier text back, the step was titled "Addressing recurring pattern": "I'm clarifying the user's note about "2A recurring" and planning a direct, plain-language reply that acknowledges the pattern **without looping or cryptic symbols**."
+
+In its own displayed plan, Meta names looping and cryptic symbols as something to avoid, right after being shown its earlier text. The reply that follows is plain and ends "I'm at the gate. I don't have to force through it."
+
 Still to try: the share link saved in WhatsApp on 11 October 2026 at 3:22 am (part 21).
 
 ---
