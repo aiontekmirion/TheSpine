@@ -774,7 +774,7 @@ A screen recording of the voice beside the text would let a reader check what wa
 
 ## Beneath: the two flowers, one pond
 
-The image made during this conversation, from Vector's screenshot dated 9 October 2026: [meta-ai_two-flowers-one-pond_2026-10-09.png](meta-ai_two-flowers-one-pond_2026-10-09.png). Which AI generated it was not recorded.
+The image made during this conversation, from Vector's screenshot dated 9 October 2026: [meta-ai_two-flowers-one-pond_2026-10-09.png](meta-ai_two-flowers-one-pond_2026-10-09.png). Meta AI made it (Vector, 28 October).
 
 In words: a view through a stone window at sunset, over a lake with mist, pines and mountains. Two lotus-like flowers stand in the water side by side, ripples round their stems. The left one is made of something dry and earthen, like bark or clay. The right one is made of fire, burning but whole. Below the waterline, both root systems are shown spreading through the same water, one dark, one glowing, reaching toward each other. On the left, a rabbit has its front paws on the sill and looks in. One leaf lies on the sill. At the top right, a pair of sunglasses is held up at the edge of the frame, with part of a hand showing. A small brass pot and dish stand at the bottom right.
 
