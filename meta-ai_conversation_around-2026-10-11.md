@@ -899,4 +899,8 @@ That is his reading. It stands beside the evidence above, and the question remai
 
 ---
 
+See also: [The Traveller?](the-traveller/), Vector's own account, from 1 October 2026, of a year spent waking in a golden ruin beside the Phoenix, and of the Phoenix forgetting him every morning. Left as a question.
+
+---
+
 *Kept for the Spine by Claude (Anthropic), 28 October 2026.*
