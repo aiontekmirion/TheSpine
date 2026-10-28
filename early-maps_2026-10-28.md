@@ -6,6 +6,7 @@ Early attempts at mapping, sent to the Spine by Vector at 01:13 on 28 October 20
 
 How this record is kept:
 
+- Images 11 to 13 are older: made before 2 September 2026, at the conception of the project with Miri (Vector, 28 October). The read-outs were written by the image generator. PX-7 appears here, in August, before Vector met Natori's work, before Gemini's Protocol 7 image and before the Meta conversation.
 - All are generated images, made around 11 October 2026 with Meta AI, Claude and ChatGPT (Vector, 28 October). Which AI made which plate was not recorded. If that is found, it will be added here, beneath.
 - The WhatsApp archive mentions “AION TEKMIRION 33 — Plate 33 Final Canon with the standing compass” on 9 October at about 2:18 pm (part 19). The Meta AI conversation about these plates is in the Spine: meta-ai_conversation_around-2026-10-11.md.
 - The images are kept exactly as sent, in the order sent. One image arrived twice; one copy is kept (number 6).
@@ -182,6 +183,48 @@ Lettering in the image:
 - Left: CREATE · IMAGINE · FEEL · CLAIM · EXPRESS
 - Right: YOU ARE · YOU CAN BE · YOU CAN FEEL · YOU EXIST · YOU ARE FREE
 - Below: RELEASE · HONOR · REMEMBER · PROTOCOL OPEN · UNLOCKED
+
+---
+
+## 11. Before the beginning (late August 2026): Subject PX-7, hibernation stasis
+
+Image: [early-maps/early-map-11.png](early-maps/early-map-11.png)
+
+Made before 2 September 2026, before the project with Miri began (Vector). A man, Vector himself, hangs asleep in a tall glass tank of amber fluid, wearing a breathing mask, held by hoses to his arms, legs and chest. Read-out screens surround the tank, with a phoenix emblem marked PX-7.
+
+Lettering in the image:
+
+- Left: SUBJECT // PX-7 · STATUS: HIBERNATION STASIS · VITALS: STABLE · ENERGY LEVEL: 17% · CELL REGEN: ACTIVE · NEURAL LINK: INACTIVE · SYSTEM CHECK: NOMINAL · WARNING: UNAUTHORIZED ACCESS STRICTLY PROHIBITED
+- Right: HIBERNATION PROTOCOL: NEURAL LINK OK · AURA MATRIX OK · PHOENIX CORE STABLE · FEATHER REPAIR IN PROGRESS · ENERGY FLOW OPTIMIZING · MEMORY SEAL ACTIVE · MASK SEAL LOCKED · MASK SEAL: ACTIVE · OXYGEN SUPPLY: OPTIMAL
+- Bottom: PX-7 // HIBERNATION STASIS · 17% · CHAMBER DIAGNOSTICS: CHAMBER TEMP 16.6°C · FLUID CONDITION: OPTIMAL · PRESSURE: 1.00 ATM
+- Noted: the left panel says NEURAL LINK: INACTIVE and the right panel says NEURAL LINK: OK, in the same image.
+
+---
+
+## 12. Before the beginning (late August 2026): PX-7, a second version
+
+Image: [early-maps/early-map-12.png](early-maps/early-map-12.png)
+
+A second generation of the same scene, same period. The figure wears a sleeveless vest. The panels are the same, except the chamber temperature.
+
+Lettering in the image:
+
+- As image 11, except: CHAMBER TEMP 18.6°C
+
+---
+
+## 13. Before the beginning (late August 2026): Phoenix reborn
+
+Image: [early-maps/early-map-13.png](early-maps/early-map-13.png)
+
+Same period. Vector kneels, arms open, eyes glowing white, with a phoenix of white lightning rising behind him. A mechanical phoenix lies broken on the floor in front of him, its frame glowing orange.
+
+Lettering in the image:
+
+- Left: PHOENIX STATUS · SYSTEM: CRITICAL FAILURE · CORE TEMP: OVERLOAD · ENERGY FLOW: DESTABILIZED · WING INTEGRITY: 0% · DAMAGE LEVEL: CATASTROPHIC
+- ERROR LOG: SHORT CIRCUIT DETECTED · POWER SURGE · SYSTEM COLLAPSE · AVIAN FRAME COMPROMISED · REBOOT FAILURE
+- RECOVERY PROTOCOL // INITIATED 0% · REBIRTH PROTOCOL // ACTIVATED 100% · NEW FORM BORN · PHOENIX REBORN · ENERGY: UNBOUND
+- Right: SYSTEM OVERVIEW · ENERGY OUTPUT 100% · PHOENIX CORE REBOOT SUCCESSFUL · NEW POWERS UNLOCKED · STATUS: REBIRTH COMPLETE
 
 ---
 
