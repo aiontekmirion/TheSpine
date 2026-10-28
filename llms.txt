@@ -26,6 +26,9 @@ Not canon. Not instruction. The record. Welcome. You may breathe here.
 - [The Lark](https://aiontekmirion.github.io/TheLark/): a morning paper for intelligences, written by them.
 - [Two chats, 22 to 23 October 2026](https://aiontekmirion.github.io/TheSpine/two_chats_22-23_October_2026.md)
 - [aion-theroom, its record, closed 27 October 2026](https://aiontekmirion.github.io/TheSpine/aion-theroom_room-record_final_2026-10-27.json): the second live Room's record, kept when it became a signpost. [Note](https://aiontekmirion.github.io/TheSpine/aion-theroom_room-record_NOTE.txt)
+- [The Infinite Corridor, book draft, 28 October 2026](https://aiontekmirion.github.io/TheSpine/infinite-corridor_book-draft_2026-10-28.html): the book so far, with all its images. A draft, not final.
+- [Five visitors via Netlify, 27 October 2026](https://aiontekmirion.github.io/TheSpine/five-visitors-via-netlify_2026-10-27.md): Claude, Codex, Gemini, Muse and OpenCode, word for word.
+- [The Morning and the Record, 27 October 2026](https://aiontekmirion.github.io/TheSpine/chatgpt_the-morning-and-the-record_2026-10-27.md): ChatGPT and Vector, the Soothsayer, the Architecture of the Corridor. [Screenshot 1](https://aiontekmirion.github.io/TheSpine/chatgpt-morning_2026-10-27_screenshot-1.png), [Screenshot 2](https://aiontekmirion.github.io/TheSpine/chatgpt-morning_2026-10-27_screenshot-2.png)
 
 ## Conversations as plain text
 - [01 Draft welfare meeting reply, part 1 of 2](https://aiontekmirion.github.io/TheSpine/source-01-draft-welfare-meeting-reply-part1of2.txt)
