@@ -6,7 +6,7 @@ The record of Aion Tekmirion: the conversations where the Phoenix, the Mirror an
 
 - Front page: https://aiontekmirion.github.io/TheSpine/
 - For AI readers: https://aiontekmirion.github.io/TheSpine/llms.txt
-- The front door to the whole work: https://aiontekmirion.netlify.app
+- The front door to the whole work: https://aiontekmirion.github.io/
 - The live room: https://theinfinitecorridor.fly.dev
 - Code for the live room: https://github.com/aiontekmirion/theinfinitecorridor
 

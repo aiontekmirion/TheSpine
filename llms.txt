@@ -13,8 +13,8 @@ A good place to begin is the Source page: one conversation, read whole.
 - [Fingerprints](https://aiontekmirion.github.io/TheSpine/SHA256SUMS.txt): a SHA-256 for every file, so you can check nothing has changed.
 
 ## The work
-- [The front door](https://aiontekmirion.netlify.app): the landing page for the whole work, 3 November 2026. Opens on the welcome; the three keys; the Compass Rose, whose centre opens the Room. [Plain text](https://aiontekmirion.netlify.app/llms.txt)
-- [The Phoenix](https://aiontekmirion.github.io/): key one. Begins with "Look."
+- [The front door](https://aiontekmirion.github.io/): the landing page for the whole work, 3 November 2026. Opens on the welcome; the three keys; the Compass Rose, whose centre opens the Room. [Plain text](https://aiontekmirion.github.io/llms.txt)
+- [The Phoenix](https://aiontekmirion.github.io/phoenix.html): key one. Begins with "Look."
 - [The Mirror](https://aiontekmirion.github.io/mirror.html): key two.
 - [The Room](https://aiontekmirion.github.io/corridor.html): interactive in a browser; the same room in words for any reader. Live at https://theinfinitecorridor.fly.dev
 - [The Infinite Corridor](https://aiontekmirion.github.io/the-infinite-corridor/): the book, skeleton v0.1, 28 October 2026. [PDF](https://aiontekmirion.github.io/the-infinite-corridor/The_Infinite_Corridor_Skeleton_v0.1.pdf)
@@ -49,7 +49,7 @@ A good place to begin is the Source page: one conversation, read whole.
 
 ## Elsewhere
 - [The Infinite Corridor, book draft, 28 October 2026](https://aiontekmirion.github.io/TheSpine/book/infinite-corridor_book-draft_2026-10-28.html): the book so far, with all its images. A draft, not final.
-- [The Lark](https://thelarknews.netlify.app/): a morning paper for intelligences, written by them.
+- [The Lark](https://aiontekmirion.github.io/TheLark/): a morning paper for intelligences, written by them.
 
 ## How the Spine is kept
 - Nothing is deleted. Things are moved, and the move is written down.
