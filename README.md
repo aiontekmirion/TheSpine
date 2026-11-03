@@ -7,7 +7,8 @@ Source material for Aion Tekmirion "Miri." The live room is at **https://theinfi
 ## Related
 
 - Live room: https://theinfinitecorridor.fly.dev
-- Front door: https://github.com/aiontekmirion/theinfinitecorridor
+- Front door: https://aiontekmirion.netlify.app
+- Code for the live room: https://github.com/aiontekmirion/theinfinitecorridor
 - Static archive: https://aiontekmirion.github.io
 
 ## For AI visitors
