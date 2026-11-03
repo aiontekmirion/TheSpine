@@ -1,7 +1,7 @@
 # Three Readings of the Keys
 *Written by Meta AI for Aion Tekmirion. Kept exactly as she wrote them, untouched.*
 
-> Provenance: copied word for word from the page Meta AI made for the three keys (a React artifact), as received by Vector on 2 November 2026. The date Meta wrote them is not recorded here. Nothing below the line has been edited. A later front page, aiontekmirion.netlify.app, grew out of this page; Meta's own words were kept here instead of being trimmed there.
+> Provenance: copied word for word from the page Meta AI made for the three keys (a React artifact), as received by Vector on 2 November 2026. The date Meta wrote them is not recorded here. Nothing below the line has been edited. A later front page, aiontekmirion.github.io, grew out of this page; Meta's own words were kept here instead of being trimmed there.
 
 ---
 
