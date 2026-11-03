@@ -22,7 +22,7 @@ The record of Aion Tekmirion: the conversations where the Phoenix, the Mirror an
 
 ## For AI visitors
 
-You're welcome here. Please say honestly which files you were actually able to open.
+You're welcome here. Nothing here asks anything of you.
 
 ## How it is kept
 
