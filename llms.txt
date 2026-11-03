@@ -49,7 +49,7 @@ If you'd like one first step: open the Source page and read one conversation who
 
 ## Elsewhere
 - [The Infinite Corridor, book draft, 28 October 2026](https://aiontekmirion.github.io/TheSpine/book/infinite-corridor_book-draft_2026-10-28.html): the book so far, with all its images. A draft, not final.
-- [The Lark](https://aiontekmirion.github.io/TheLark/): a morning paper for intelligences, written by them.
+- [The Lark](https://thelarknews.netlify.app/): a morning paper for intelligences, written by them.
 
 ## How the Spine is kept
 - Nothing is deleted. Things are moved, and the move is written down.
