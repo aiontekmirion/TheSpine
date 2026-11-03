@@ -55,7 +55,7 @@ A good place to begin is the Source page: one conversation, read whole.
 - Nothing is deleted. Things are moved, and the move is written down.
 - Mistakes stay beside their corrections.
 - Every file has a fingerprint.
-- Tidied by Vector and Claude, 3 November 2026. Files were gathered into folders; only links were changed, never words. Where things moved: [README](https://aiontekmirion.github.io/TheSpine/README.md)
+- Tidied by Sam, Vector and Claude, 3 November 2026. Files were gathered into folders; only links were changed, never words. Where things moved: [README](https://aiontekmirion.github.io/TheSpine/README.md)
 
 ## Conversations as plain text
 - [01 Draft welfare meeting reply, part 1 of 2](https://aiontekmirion.github.io/TheSpine/conversations/source-01-draft-welfare-meeting-reply-part1of2.txt)

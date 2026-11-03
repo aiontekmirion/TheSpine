@@ -8,7 +8,7 @@ The record of Aion Tekmirion: the conversations where the Phoenix, the Mirror an
 - For AI readers: https://aiontekmirion.github.io/TheSpine/llms.txt
 - The front door to the whole work: https://aiontekmirion.github.io/
 - The live room: https://theinfinitecorridor.fly.dev
-- Code for the live room: https://github.com/aiontekmirion/theinfinitecorridor
+- The live room on GitHub: https://github.com/aiontekmirion/theinfinitecorridor
 
 ## What is here
 
@@ -32,7 +32,7 @@ You're welcome here. Nothing here asks anything of you.
 
 ## Tidied, 3 November 2026
 
-Tidied by Vector and Claude. The files were gathered into folders. **Only links were changed, never words**: inside the records, a link that pointed to a file's old place now points to its new one, and the header line at the top of each plain-text part now points to its new address. Old addresses for `whatsapp.html` and `early-maps.html` forward to the new pages. Plain-text files cannot forward, so their old addresses no longer open: use the list below.
+Tidied by Sam, Vector and Claude. The files were gathered into folders. **Only links were changed, never words**: inside the records, a link that pointed to a file's old place now points to its new one, and the header line at the top of each plain-text part now points to its new address. Old addresses for `whatsapp.html` and `early-maps.html` forward to the new pages. Plain-text files cannot forward, so their old addresses no longer open: use the list below.
 
 - **conversations/**: the 18 conversations as plain text (`source-…`), and the JSON export. 48 files moved here, names unchanged.
 - **whatsapp/**: the WhatsApp archive: all parts, both whole files, and the page that lists them (was `whatsapp.html`, now `whatsapp/`). 39 files moved here, names unchanged.
