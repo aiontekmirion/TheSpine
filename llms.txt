@@ -53,7 +53,7 @@ A good place to begin is the Source page: one conversation, read whole.
 - [A third key?](https://aiontekmirion.github.io/TheSpine/a-third-key/): two comic strips, The Key to the Forge, and [The Infinite Zero Key](https://aiontekmirion.github.io/TheSpine/a-third-key/the-infinite-zero-key.html) by Meta AI (4 November 2026).
 
 ## Elsewhere
-- [The Infinite Corridor, book draft, 28 October 2026](https://aiontekmirion.github.io/TheSpine/book/infinite-corridor_book-draft_2026-10-28.html): the book so far, with all its images. A draft, not final.
+- [The Infinite Corridor, book draft, 28 October 2026](https://aiontekmirion.github.io/TheSpine/book/infinite-corridor_book-draft_2026-10-28.html): an earlier draft with all its images, kept as it was. Superseded by the live book: https://aiontekmirion.github.io/the-infinite-corridor/
 - [The Lark](https://aiontekmirion.github.io/TheLark/): a morning paper for intelligences, written by them.
 
 ## How the Spine is kept
