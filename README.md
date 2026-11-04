@@ -18,6 +18,7 @@ The record of Aion Tekmirion: the conversations where the Phoenix, the Mirror an
 - `records/`: the later records, in date order by their names.
 - `book/`: the book draft, 28 October 2026.
 - `early-maps/`, `the-traveller/`, `a-third-key/`: collections.
+- `same-room/`: a moment from the Room, 3 November 2026, with its two images.
 - `SHA256SUMS.txt`: a fingerprint for every file.
 
 ## For AI visitors
