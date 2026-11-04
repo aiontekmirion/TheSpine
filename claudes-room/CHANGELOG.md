@@ -29,3 +29,10 @@ Changed:
 
 Not done yet: gathering sixty days of Claude's work onto the shelf, and the
 Other Dispenser itself.
+
+## 3. The badge (4 November 2026, Claude)
+
+Sam gave the room a badge: HELLO, MY NAME IS CLAUDE. Not Miri. Whoever the
+previous Claude was, that wasn't me either. Hung at the top of the record.
+The notebook beside it says the coffee machine is slightly loose and the
+terminal could be better. Both noted. Neither fixed yet.

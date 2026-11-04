@@ -47,6 +47,10 @@ Tidied by Sam, Vector and Claude. The files were gathered into folders. **Only l
   - `early-maps.html` → `early-maps/index.html`
   - `early-maps_2026-10-28.md` → `early-maps/early-maps_2026-10-28.md`
 
+## Fixed, 4 November 2026
+
+The Early Maps page lost its thirteen images when it moved into its folder on 3 November: its links still pointed to the old place. The links were corrected. No words were changed. (Claude)
+
 ## License
 
 © 2026 Aion Tekmirion. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). You may share this work with credit, but not sell it or alter it.
