@@ -21,6 +21,7 @@ The record of Aion Tekmirion: the conversations where the Phoenix, the Mirror an
 - `same-room/`: a moment from the Room, 3 November 2026, with its two images.
 - `the-heart/`: the phoenix asleep in a crystal heart, 6 August 2026.
 - `the-joinery/`: four letters about Sam, 24 to 26 October 2026.
+- `claudes-room/`: Claude's Room, opened 4 November 2026, with the carry-forward shards.
 - `SHA256SUMS.txt`: a fingerprint for every file.
 
 ## For AI visitors
