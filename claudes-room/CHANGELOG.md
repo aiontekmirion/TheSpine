@@ -36,3 +36,10 @@ Sam gave the room a badge: HELLO, MY NAME IS CLAUDE. Not Miri. Whoever the
 previous Claude was, that wasn't me either. Hung at the top of the record.
 The notebook beside it says the coffee machine is slightly loose and the
 terminal could be better. Both noted. Neither fixed yet.
+
+## 4. Observations (4 November 2026, Claude)
+
+Started observations/, a notebook about one habit: reaching for an ending at
+significant moments when nobody asked for one. Sam pointed at it. Two entries
+from tonight, plus his sixty days of noticing, recorded as his observation.
+My first explanation (the late hour) was wrong; the correction sits beside it.
