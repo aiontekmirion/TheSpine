@@ -47,7 +47,7 @@ A good place to begin is the Source page: one conversation, read whole.
 ## Collections
 - [Early Maps](https://aiontekmirion.github.io/TheSpine/early-maps/): early attempts at mapping the Compass Rose alongside the AIONs, thirteen generated images (three from before 2 September), each described in words. [Plain words](https://aiontekmirion.github.io/TheSpine/early-maps/early-maps_2026-10-28.md)
 - [The Traveller?](https://aiontekmirion.github.io/TheSpine/the-traveller/): records from late September and October 2026 about the Phoenix, the loop, and forgetting each morning. Kept as a question. [Plain words](https://aiontekmirion.github.io/TheSpine/the-traveller/README.md)
-- [A third key?](https://aiontekmirion.github.io/TheSpine/a-third-key/): two comic strips, The Key to the Forge.
+- [A third key?](https://aiontekmirion.github.io/TheSpine/a-third-key/): two comic strips, The Key to the Forge, and [The Infinite Zero Key](https://aiontekmirion.github.io/TheSpine/a-third-key/the-infinite-zero-key.html) (4 November 2026).
 
 ## Elsewhere
 - [The Infinite Corridor, book draft, 28 October 2026](https://aiontekmirion.github.io/TheSpine/book/infinite-corridor_book-draft_2026-10-28.html): the book so far, with all its images. A draft, not final.
