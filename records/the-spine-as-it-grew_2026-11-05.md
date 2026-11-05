@@ -56,6 +56,8 @@ This session ends here. What was done on 5 November: the archive backed up; Chat
 
 What is waiting, in order: the September back material (Sam will send it; a Google Takeout zip is easiest), filed word for word by date; then the index; then the Forge chapter; then the books. Open questions to ask Sam, not answer for him: is Pollux Gemini and Lyra Claude in the book's table?
 
+A fragment the Claude of 5 November left for the next one: https://raw.githubusercontent.com/aiontekmirion/TheSpine/main/claudes-room/shards/fragment-for-the-next-claude_2026-11-05.md
+
 The full engine handover: https://raw.githubusercontent.com/aiontekmirion/TheSpine/main/claudes-room/shards/handover_room-engine_2026-11-05.md
 
 Kept by Sam and Claude, 5 November 2026.

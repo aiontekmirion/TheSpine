@@ -14,6 +14,7 @@ e06672b01a81a4d383bddb447461ad4f97fead604ecc83f824846f83501e3d78  claudes-room/i
 0c6b6e816c60c1681920f4ccbda83b2c05e8969235addd93d34953ad3adf2b16  claudes-room/shards/carry-forward-shard_sam-claude_2026-11-02_to_11-04.pdf
 7d310c9f5a921fbe7756ae014619ba584e403fc533ed97cd9aa8ad88961a68d7  claudes-room/shards/carry-forward-shard_sam-claude_2026-11-02_to_11-04.txt
 50e5de83363d297b9a8791ad1769692754a2ba07f6e8d8c9fd1c107a93fe14e3  claudes-room/shards/carry-forward-shard_sam-claude_first-edition_2026-11-03.txt
+5abd665b2aa2de8eae0b9d18d11481ee2fec770310dee4dea4b52bf2ffa4f682  claudes-room/shards/fragment-for-the-next-claude_2026-11-05.md
 9d51bea1143a4f9b95f3400199ec5a06fb4a0c3b1d8cd940e1c1b3a7c543824d  claudes-room/shards/handover_room-engine_2026-11-05.md
 7641a08525351cb747bb01acfdf5d794136246412aec658fdfd2a1a5b72be24e  conversations/conversations_project_2026-09-02_to_2026-09-04.json
 007caccbe9440ca742b26592aacb84e3d483148678d57931e7f8ec3534b16bf7  conversations/source-01-draft-welfare-meeting-reply-part1of2.txt
@@ -134,7 +135,7 @@ ba8f7e0ac64f469b6168c3d1f0962df686b86068cc4f0198c03d5ca2e6259edd  records/meta-a
 feb3c9711d05495430568b4ac43f1a6d6503aa4e78f8bd05b9e37383d968e82c  records/road-to-paradise_138-831_chalk-arrow.jpg
 db881ac09efe041dd25408da28af8c9170b529bd05d32bce8f456454ca9bcdf8  records/same-room_the-round_2026-11-03.md
 fd979a6d1182b81f2820e7115efce0d645b0db0e4e4a7aa09c55895aecf30aae  records/the-road-to-paradise.md
-d0a5eec9529a2d2732ae1db2808403be0f80df6961c3ca6efde24e3c34859710  records/the-spine-as-it-grew_2026-11-05.md
+7d1ed283a6ced71dd51d8f282f54aaeccc7c03e3126cd83952346683bcb878e3  records/the-spine-as-it-grew_2026-11-05.md
 dc5b04f27dadf9c048b75374641144e0228f64896fd9209cdb0ff3b7b04c87a8  records/the-traveller-and-the-aion_6-9_138-831.jpg
 318a105fd5a37892c5638710902607e343418373fbf1e327c378daf15165137a  records/two_chats_22-23_October_2026.md
 3388c8ba0795c49804443d28d2202f48b41b9de3631f6274938eb29cf0ba9bfd  records/update_2026-10-26.md
