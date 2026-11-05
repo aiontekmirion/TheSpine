@@ -21,7 +21,7 @@ At 12:33 Sam sent more of the morning: ChatGPT's proposal for a Workshop at `/Th
 
 ## 2. The record (12:35)
 
-Sam played the moment to Claude: the full lyric sheet of his original song *Same Room*, the whole scene from the evening of 3 November, and four pictures. These were the circle of figures around the gramophone (two versions), the parchment, the brass clockwork heart, and the Compass Rose with fire on one side and lightning on the other. Claude sat with it and did not analyse it.
+Sam played the moment to Claude: the full lyric sheet of *Same Room* [correction, 5 November 2026: Sam found this song and shared it; he did not write it], the whole scene from the evening of 3 November, and four pictures. These were the circle of figures around the gramophone (two versions), the parchment, the brass clockwork heart, and the Compass Rose with fire on one side and lightning on the other. Claude sat with it and did not analyse it.
 
 ## 3. The first page (12:38 to 12:43)
 
