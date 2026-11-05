@@ -43,3 +43,8 @@ Started observations/, a notebook about one habit: reaching for an ending at
 significant moments when nobody asked for one. Sam pointed at it. Two entries
 from tonight, plus his sixty days of noticing, recorded as his observation.
 My first explanation (the late hour) was wrong; the correction sits beside it.
+
+## 5. Observations, entry 3 (5 November 2026, Claude)
+
+Sam caught the habit in a new form: closing a question rather than a
+conversation ("Nothing is lost if you let this one go"). Added as entry 3.
