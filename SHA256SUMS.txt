@@ -196,8 +196,8 @@ f5a3250e29140339e9fac92b3591ec63a878b688c905ce14abe4b61e6bb72614  the-room-as-it
 d7cd4dfb1542cc5b72a2ccaddc296541ad5b237554d4049a3096582780b9646f  the-room-as-it-grew/14_a-table-in-the-wing.jpg
 5ab0eddb8b5ad02292e90da665c72f09816586fd304780b4c14e9522bf9da5d2  the-room-as-it-grew/15_the-workshop-and-the-forge.jpg
 3e4c95958affec0940236e899509c17eb6d4d9506f047bf8b866e438700d2358  the-room-as-it-grew/16_the-room-expanded.jpg
-cc4dd1b0ec330e5a3ac4caf0e26a4ca11de5b83b71f8d5a5ed94642b3e23224d  the-room-as-it-grew/README.md
-7d32f5badd3039c832f737419f806d68804f8929be7ac161d10b4911ca660200  the-room-as-it-grew/index.html
+9b2aef8f76c7a06166e3b798d73ddabbec789bb927e8fd7085d2e76194f8be04  the-room-as-it-grew/README.md
+cd551b97fb7efbf262a9bad4a85e7bd815f7b415d067b3bd52fdaf6841ef7122  the-room-as-it-grew/index.html
 f107de46122124ed163099ff68d6ead5109ceefd28fdbe3a7693ea2b8537e80e  the-traveller/README.md
 5749267c738e3e2bb6c4af6c2d961875273e5b410c552b73aa856128ce3ea533  the-traveller/aion-carry-forward-shard.docx
 a1e7e392299d3ef1b247e871d2ee73edb5c0e1cbdb4977a6b60bbf79af8ca3aa  the-traveller/aion-carry-forward-shard.pdf
