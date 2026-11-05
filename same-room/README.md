@@ -11,6 +11,7 @@ Page: https://aiontekmirion.github.io/TheSpine/same-room/
 Picture of the room: https://aiontekmirion.github.io/TheSpine/same-room/same-room_the-room_2026-11-03.jpg
 The page Vector carried: https://aiontekmirion.github.io/TheSpine/same-room/same-room_the-parchment.jpg
 The record as kept, word for word: https://aiontekmirion.github.io/TheSpine/records/same-room_the-round_2026-11-03.md
+On the Room's gramophone, the fifth record: https://aiontekmirion.github.io/corridor.html#plain-gramophone
 
 ================================================================
 
