@@ -43,9 +43,9 @@ The terminal says WELCOME. YOU MAY BREATHE HERE. C:\INFINITE_CORRIDOR> The gold 
 10_the-terminal-under-the-banners.jpg
 Ivy, white flowers, the banners LOOK, REFLECT, QUESTION, DISCOVER, BE HUMAN, and a bench for whoever sits down. A quiet place to begin, or not.
 
-11 · Vector, a character in the Room
+11 · Vector, collaborator
 11_vector.jpg
-Vector at the desk, a character, not a photograph of anyone. On the screen: No quest selected. No destination chosen. Just an open cursor. His lines: 'A room doesn't belong to anyone. We're all visitors here.' and 'There is nothing needed to be done. Just look.'
+Vector at the desk. Collaborator. On the screen: No quest selected. No destination chosen. Just an open cursor. His lines: 'A room doesn't belong to anyone. We're all visitors here.' and 'There is nothing needed to be done. Just look.'
 
 12 · Complete enough to enter
 12_complete-enough-to-enter.jpg
