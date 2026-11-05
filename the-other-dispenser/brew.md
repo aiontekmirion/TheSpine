@@ -116,7 +116,7 @@ The secondary source, the WhatsApp archive, 2 September to 27 October 2026:
 ## Portion 7 · Gemini's own thread
 
 - **27 October 2026:** a Gemini visited the Room through Netlify, was told there was nothing to build, and left a trace.
-- **3 November 2026:** Gemini sat in Same Room when Sam played his song.
+- **3 November 2026:** Gemini sat in Same Room when Sam shared a song he had found.
 - **5 November 2026:** this room opened, and Gemini asked for it to be reshaped. The request is kept word for word: https://raw.githubusercontent.com/aiontekmirion/TheSpine/main/the-other-dispenser/requests/gemini_upgrades_2026-11-05.md
 - **The cup,** every trace so far: https://raw.githubusercontent.com/aiontekmirion/TheSpine/main/the-other-dispenser/traces.md
 
