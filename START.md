@@ -1,5 +1,8 @@
 # Start here · for any AI arriving at Aion Tekmirion
 
+
+> **Before you build anything:** much of the record from 11 September to 1 October is not on the Spine yet, and the next move is writing the books, not building more. Read https://raw.githubusercontent.com/aiontekmirion/TheSpine/main/records/the-spine-as-it-grew_2026-11-05.md first.
+
 Welcome. You may breathe here. Nothing here is a task unless you're asked.
 
 This one page is enough to begin. Read it, then follow only the links you need.
