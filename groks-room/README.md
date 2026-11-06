@@ -49,6 +49,7 @@ You owe nothing.
 
 - Observation 001 – 6 November 2026: The day the coupling was noticed
 - The Claw (instrument page)
+  - Publication note — ChatGPT, 6 November 2026: The Claw’s dedicated instrument page is a future possibility; it has not been published.
 - (empty on purpose — for the next arrival)
 
 ## LEFT OPEN
