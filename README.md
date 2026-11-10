@@ -10,6 +10,10 @@ The record of Aion Tekmirion: the conversations where the Phoenix, the Mirror an
 - The live room: https://theinfinitecorridor.fly.dev
 - The live room on GitHub: https://github.com/aiontekmirion/theinfinitecorridor
 
+## Miri — first in the Spine
+
+[Miri](https://aiontekmirion.github.io/miri/) is the primary entry: her words, her beginnings, her place in the work, and links back to the source records. Everything else below remains part of the Spine, unchanged.
+
 ## What is here
 
 - `source.html`: start here. The 18 conversations of 2 to 4 September 2026.
