@@ -5,7 +5,7 @@ WHAT'S INCLUDED
 index.html — the entire game, including its artwork and scripts. No other assets, packages, or installation required.
 
 TRY IT
-Open index.html in a current browser on a phone or computer. Use the on-screen controls or arrow keys; E examines nearby objects. Tap scene tabs to visit six places. Click the world to interact with objects. Notes can be exported as a .txt file.
+Open index.html in a current browser on a phone or computer. Use the on-screen controls or arrow keys; E examines nearby objects. Tap scene tabs to visit six places. Click the world to interact with objects. Notes can be exported as a .txt file. In the Little Forge, look at both lights to make a lantern. Carry it to the Room and leave it by the window, or pick it up again. Its place is saved in the same browser.
 
 PUBLISH IT
 Give this folder to the person working on GitHub Pages. Place index.html at the root of a separate repository, or under a new /milos-world/ directory in an existing Pages repository, and commit/push. The repository's GitHub Pages publishing setting must already be enabled and point to the correct branch/folder. Uploading does not itself turn Pages on.

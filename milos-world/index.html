@@ -98,7 +98,7 @@ const scenes=['room','forest','garden','forge','stars','door'];
 let scene='room', tick=0, message='The room is quiet. The door isn’t locked.', active=true;
 const p={x:490,y:435,vx:0,vy:0,ground:435,facing:1};
 const keys={left:false,right:false};
-let wandering=false, wanderChange=0, garden=[0,0,0,0], gardenWater=[false,false,false,false], forge={fire:false,mirror:false,lanterns:0}, constellations=[],namedStars=[],boxOpened=0, flame=true, foxSpoken=false;
+let wandering=false, wanderChange=0, garden=[0,0,0,0], gardenWater=[false,false,false,false], forge={fire:false,mirror:false}, constellations=[],namedStars=[],boxOpened=0, flame=true, foxSpoken=false;
 const stars=[{x:175,y:142},{x:328,y:100},{x:460,y:175},{x:590,y:83},{x:706,y:188},{x:812,y:116},{x:350,y:297},{x:570,y:300},{x:845,y:299}];
 const surprises=[['a tiny bell','It rings once, very softly, as though saying hello.'],['a blank map','Someone has drawn a small dot labeled “here.”'],['a paper boat','It has never seen the sea. There is no hurry.'],['a glass marble','Inside, an unfamiliar constellation is waiting.'],['a folded note','“There you are. Here I am.”'],['a biscuit tin','The label reads: PROPERTY OF SIR CROMWELL’S WORTH.'],['a silver feather','It weighs almost nothing.'],['a miniature key','It does not appear to belong to any lock you know.']];
 const objects={
@@ -109,6 +109,35 @@ const objects={
  stars:[{x:490,label:'telescope',r:130}],
  door:[{x:500,label:'mystery box',r:150},{x:795,label:'blue door',r:85}]
 };
+const lanternKey = 'miloWorldLantern';
+const lanternSill = {x: 574, y: 291};
+function readLanternLocation() {
+    try {
+        const saved = localStorage.getItem(lanternKey);
+        if (saved === 'carried' || saved === 'window') return saved;
+    } catch {}
+    return null;
+}
+let lanternLocation = readLanternLocation();
+
+function moveLantern(location, description) {
+    if (location === lanternLocation) return;
+    lanternLocation = location;
+    try {
+        localStorage.setItem(lanternKey, location);
+    } catch {
+        description += ' The lantern can stay here while this page is open.';
+    }
+    say(description, true);
+    refreshTools();
+}
+
+function makeLantern() {
+    if (lanternLocation || !forge.fire || !forge.mirror) return;
+    forge.fire = forge.mirror = false;
+    moveLantern('carried', 'Milo made a little lantern. It glows in his hand.');
+}
+
 let notes=[];
 try {const saved=JSON.parse(localStorage.getItem('miloWorldNotes')||'[]');if(Array.isArray(saved))notes=saved.slice(-50);}catch(e){}
 function save(){try{localStorage.setItem('miloWorldNotes',JSON.stringify(notes))}catch(e){}}
@@ -127,7 +156,7 @@ function drawWindow(x,y,ww,hh,night=false){box(x-10,y-10,ww+20,hh+20,'#4a3529',7
 function drawFloor(){box(0,430,1000,110,'#544336');box(0,425,1000,11,'#b38e60');for(let i=0;i<14;i++)line(0,439+i*11,W,439+i*11,'#785944',1);for(let i=0;i<9;i++)line(i*121+50,439,i*121+50,540,'#795845',1)}
 function tree(x,scale=1){g.save();g.translate(x,0);g.scale(scale,scale);box(-20,195,40,247,'#80572f',7);for(let i=0;i<7;i++){const a=i*6.28/7;circ(Math.cos(a)*52,196+Math.sin(a)*43,75,i%2?'#427d50':'#548a55')}circ(0,155,70,'#4a8451');g.restore()}
 function hills(){poly([[0,310],[100,220],[220,250],[385,160],[560,230],[725,170],[870,225],[1000,178],[1000,440],[0,440]],'#598a77');poly([[0,370],[140,305],[220,320],[370,265],[505,325],[655,275],[850,325],[1000,278],[1000,440],[0,440]],'#3d6e58')}
-function drawRoom(){bg('#344c50','#a58a64');for(let i=0;i<10;i++){box(0,i*43,W,2,'#ffffff09');for(let j=0;j<9;j++)line(j*130+i%2*55,i*43,j*130+i%2*55,i*43+43,'#192a2a29',1)}drawWindow(385,75,235,205,true);box(45,230,240,190,'#4d3730',12);box(64,247,201,150,'#92775d',5);box(101,297,123,101,'#35281f',10);glow(163,355,125,'#f5b65355');poly([[125,392],[145,342],[166,363],[190,316],[207,390]],flame?'#f5a246':'#52372a');poly([[144,393],[162,350],[179,388]],flame?'#fff2a2':'#745748');box(286,310,115,109,'#674a37',6);for(let i=0;i<4;i++)box(303+i*18,320,14,80,['#b59c75','#4a6b66','#ae6d58','#d5ad72'][i],2);box(683,160,160,266,'#263d50',7);box(698,173,130,251,'#34566e',5);box(711,185,104,207,'#203a51',4);circ(797,302,8,'#d9b36a');box(845,315,116,102,'#4f3b2e',7);box(854,303,98,13,'#ac906d',3);drawFloor();glow(165,345,140,'#ffe6a01e');label('WELCOME',502,45,'#fff0bc',18);label('The door opens both ways',752,130,'#f4e4bc',15)}
+function drawRoom(){bg('#344c50','#a58a64');for(let i=0;i<10;i++){box(0,i*43,W,2,'#ffffff09');for(let j=0;j<9;j++)line(j*130+i%2*55,i*43,j*130+i%2*55,i*43+43,'#192a2a29',1)}drawWindow(385,75,235,205,true);box(375,280,255,12,'#8e6f50',4);box(45,230,240,190,'#4d3730',12);box(64,247,201,150,'#92775d',5);box(101,297,123,101,'#35281f',10);glow(163,355,125,'#f5b65355');poly([[125,392],[145,342],[166,363],[190,316],[207,390]],flame?'#f5a246':'#52372a');poly([[144,393],[162,350],[179,388]],flame?'#fff2a2':'#745748');box(286,310,115,109,'#674a37',6);for(let i=0;i<4;i++)box(303+i*18,320,14,80,['#b59c75','#4a6b66','#ae6d58','#d5ad72'][i],2);box(683,160,160,266,'#263d50',7);box(698,173,130,251,'#34566e',5);box(711,185,104,207,'#203a51',4);circ(797,302,8,'#d9b36a');box(845,315,116,102,'#4f3b2e',7);box(854,303,98,13,'#ac906d',3);drawFloor();glow(165,345,140,'#ffe6a01e');if(lanternLocation==='window')drawLantern(lanternSill.x,lanternSill.y);label('WELCOME',502,45,'#fff0bc',18);label('The door opens both ways',752,130,'#f4e4bc',15)}
 function drawForest(){bg('#75bed0','#afddae');circ(820,75,43,'#f5de90');hills();for(let i=0;i<5;i++)tree(75+i*230,.85+(i%3)*.17);box(0,426,1000,114,'#6a523a');box(0,421,1000,19,'#4e9b58');for(let i=0;i<90;i++)line(i*13,424,i*13-3,411-(i%4)*3,'#2c7c45',2);glow(245,170,100,'#f2e29218');drawFox(370,414);drawSpider(620,197);for(let i=0;i<5;i++){circ(810+i*18,420-i%2*9,11,'#d59665');circ(810+i*18,416-i%2*9,6,'#e9d49e')}label('Somewhere along the path...',510,60,'#284f4c',24)}
 function drawFox(x,y){g.save();g.translate(x,y);poly([[-30,5],[-60,-18],[-65,-4],[-33,21]],'#d77836');circ(0,-8,25,'#d88137');poly([[-22,-26],[-23,-58],[-1,-39]],'#d88137');poly([[7,-39],[26,-57],[28,-22]],'#d88137');poly([[-9,1],[0,19],[14,1]],'#fff0c7');circ(-7,-8,3,'#282321');circ(11,-8,3,'#282321');circ(3,6,3,'#282321');g.restore()}
 function drawSpider(x,y){line(x,0,x,188,'#eeeecc88',2);circ(x,197,22,'#292d36');circ(x,203,12,'#3f424d');for(let i=-1;i<=1;i+=2){circ(x+i*8,191,4,'white');circ(x+i*8+1,191,2,'#1f2734')}for(let i=0;i<4;i++){const a=i*15;line(x-10,190+a/3,x-38-a,173+a,'#313640',3);line(x+10,190+a/3,x+38+a,173+a,'#313640',3)}}
@@ -138,17 +167,94 @@ function drawForge(){bg('#2d3036','#65533d');for(let i=0;i<13;i++){box(i*88,0,5,
 function drawStars(){bg('#0d1b30','#203e4b');for(let i=0;i<100;i++){let x=(i*127.37)%W,y=(i*73.1)%390;circ(x,y,i%7===0?2.1:.9, i%3?'#e2dcce':'#c1e3fa')}glow(190,140,120,'#8bcafc24');for(let i=1;i<constellations.length;i++){let a=stars[constellations[i-1]],b=stars[constellations[i]];line(a.x,a.y,b.x,b.y,'#f9dda2',3)}stars.forEach((a,i)=>{glow(a.x,a.y,22,'#e7f2e866');circ(a.x,a.y,constellations.includes(i)?10:6,constellations.includes(i)?'#f7c97b':'#d4e2fa')});drawFloor();box(445,325,105,108,'#8e785b',10);box(482,255,36,100,'#bda579',12);poly([[465,260],[550,212],[569,235],[489,298]],'#d2b78b');circ(553,225,22,'#6b8da0');label('The sky is patient',500,45,'#e9d4ad',25)}
 function drawDoor(){bg('#384b4a','#90755d');for(let i=0;i<13;i++)line(i*85,0,i*85,425,'#ffffff12',1);for(let i=0;i<8;i++)line(0,i*55,1000,i*55,'#0b1a1a44',2);box(322,55,352,378,'#685444',18);box(355,80,286,340,'#213b56',15);box(373,96,248,321,'#314f6c',9);box(387,111,221,285,'#23415b',9);line(499,114,499,399,'#57758c',5);circ(584,293,8,'#dcb46d');drawFloor();box(75,348,157,80,'#886e4e',8);box(82,335,143,23,'#bc9967',5);glow(156,337,90,'#f6da9955');label('THE ROOM OF THINGS',500,32,'#ffdda7',20);label('WE HAVEN’T IMAGINED YET',500,55,'#ffdda7',18);label('A box. A door. No instructions.',495,479,'#f4d7ab',18)}
 function drawCandle(x,y){glow(x,y-25,60,'#f8dd9477');box(x-16,y-36,32,39,'#e8c37b',8);poly([[x-7,y-35],[x,y-65+Math.sin(tick/13)*4],[x+9,y-35]],'#f4a24d');poly([[x-3,y-35],[x,y-55],[x+5,y-35]],'#fff2b0');circ(x-6,y-20,2,'#563e29');circ(x+6,y-20,2,'#563e29');line(x-18,y-8,x-30,y+2,'#e7c47f',5);line(x+18,y-8,x+30,y+2,'#e7c47f',5)}
+function drawLantern(x, y, scale = 1) {
+    g.save();
+    g.translate(x, y);
+    g.scale(scale, scale);
+    glow(0, -23, 94, '#ffc96372');
+    g.beginPath();
+    g.arc(0, -43, 8, Math.PI, 0);
+    g.strokeStyle = '#d2a66a';
+    g.lineWidth = 3;
+    g.stroke();
+    box(-16, -43, 32, 42, '#5f412b', 6);
+    box(-12, -37, 24, 30, '#ffca6d', 4);
+    poly([[-7, -10], [-4, -23], [0, -29], [7, -10]], '#fff1b7');
+    line(-10, -38, -10, -7, '#93663c', 2.5);
+    line(10, -38, 10, -7, '#93663c', 2.5);
+    box(-18, -43, 36, 5, '#ce9d5c', 2);
+    box(-17, -7, 34, 7, '#a87543', 3);
+    g.restore();
+}
+
 function drawMilo(x,y){g.save();g.translate(x,y);g.scale(p.facing,1);g.fillStyle='#c94c4d';poly([[-15,-41],[-31,2],[21,0],[14,-43]],'#c7514d');box(-22,-57,44,60,'#f4e7d9',19);box(-22,-55,44,18,'#b8c2c3',7);box(-20,-63,40,12,'#aebdc0',9);box(-23,-32,46,21,'#f7f1e2',8);circ(-7,-30,3.1,'#4b403d');circ(10,-30,3.1,'#4b403d');g.strokeStyle='#845751';g.lineWidth=1.8;g.beginPath();g.arc(2,-24,6,0,Math.PI);g.stroke();circ(-25,-17,5,'#d8dadd');circ(25,-17,5,'#d8dadd');box(-15,-2,11,6,'#adb8bc',3);box(5,-2,11,6,'#adb8bc',3);circ(18,-10,14,'#9cabb1');circ(18,-10,9,'#dce0d5');poly([[13,-7],[18,-18],[23,-7]],'#d6a95c');g.restore()}
-function render(){tick++;switch(scene){case 'room':drawRoom();drawCandle(919,418);break;case 'forest':drawForest();break;case 'garden':drawGarden();break;case 'forge':drawForge();break;case 'stars':drawStars();break;case 'door':drawDoor();break;}drawMilo(p.x,p.y);if(scene==='forest' && tick%47<18){for(let i=0;i<4;i++)circ((i*233+tick*1.5)%1000,335+i*12,1.7,'#fff7ca')}if(scene==='room'&&tick%20<10)glow(157,349,110,'#fac24f16');requestAnimationFrame(render)}
+function render(){tick++;switch(scene){case 'room':drawRoom();drawCandle(919,418);break;case 'forest':drawForest();break;case 'garden':drawGarden();break;case 'forge':drawForge();break;case 'stars':drawStars();break;case 'door':drawDoor();break;}drawMilo(p.x,p.y);
+    if (lanternLocation === 'carried') {
+        const x = Math.max(16, Math.min(W - 16, p.x - p.facing * 39));
+        line(p.x - p.facing * 25, p.y - 17, x, p.y - 18, '#d2a66a', 2);
+        drawLantern(x, p.y + 10, .58);
+    }
+    if(scene==='forest' && tick%47<18){for(let i=0;i<4;i++)circ((i*233+tick*1.5)%1000,335+i*12,1.7,'#fff7ca')}if(scene==='room'&&tick%20<10)glow(157,349,110,'#fac24f16');requestAnimationFrame(render)}
 function setScene(s){if(!names[s])return;scene=s;p.x=s==='door'?245:490;p.y=p.ground;p.vy=0;document.querySelectorAll('.tab').forEach(t=>t.setAttribute('aria-selected',String(t.dataset.scene===s)));$('sceneTitle').textContent=names[s][0];$('sceneSubtitle').textContent=names[s][1];$('coords').textContent='Milo is here · '+scenes.indexOf(s).toString().padStart(2,'0');$('stageHint').textContent='Click something, or move close and press Interact.';$('modeMsg').textContent='';refreshTools();say(({room:'The hearth is quiet. There is a blue door to the right.',forest:'The air smells of pine. Something with eight legs is watching politely.',garden:'Four empty plots. A garden can be patient.',forge:'The furnace is warm and the anvil is waiting.',stars:'Someone has left a telescope pointing toward the sky.',door:'An unlabelled box rests beside the blue door.'})[s]);}
 function bt(text,fn,disabled=false){const b=document.createElement('button');b.className='smallbtn';b.textContent=text;b.disabled=disabled;b.addEventListener('click',fn);return b}
-function refreshTools(){const tools=$('gameTools');tools.replaceChildren();let t='',descr='',tag='A little choice';switch(scene){case 'room':t='Make yourself at home';descr='Explore the hearth, the books, the candle knight, and the blue door. Nothing is waiting to grade you.';tools.append(bt('Light / dim hearth',()=>{flame=!flame;say(flame?'The hearth glows again.':'The hearth grows quiet. The room is still welcoming.',true)}),bt('Walk into the woods',()=>setScene('forest')));break;
+function refreshTools(){const tools=$('gameTools');tools.replaceChildren();let t='',descr='',tag='A little choice';switch(scene){case 'room':
+    t = 'Make yourself at home';
+    descr = 'Explore the hearth, the books, the candle knight, and the blue door. Nothing is waiting to grade you.';
+    tools.append(bt('Light / dim hearth', () => {
+        flame = !flame;
+        say(flame ? 'The hearth glows again.' : 'The hearth grows quiet. The room is still welcoming.', true);
+    }), bt('Walk into the woods', () => setScene('forest')));
+    if (lanternLocation === 'carried') {
+        tools.append(bt('Set the lantern by the window', () => {
+            moveLantern('window', 'Milo left the lantern by the window.');
+        }));
+    } else if (lanternLocation === 'window') {
+        tools.append(bt('Pick up the lantern', () => {
+            moveLantern('carried', 'Milo picked up the lantern from the window.');
+        }));
+    }
+    break;
 case 'forest':tag='Wander';t='The woodland path';descr='Walk left or right, hop about, inspect the spider, and see what the fox has to say. There are no enemies here.';tools.append(bt('Say hello to the fox',()=>{say('The fox blinks. “Hello, little traveler. There is no hurry.”',true)}),bt('Back to the Room',()=>setScene('room')));break;
 case 'garden':tag='Little game 01';t='A garden without a deadline';descr='Plant any of the four plots, water them, and let them grow. Tap a plot in the scene to work on that one.';tools.append(bt('Plant a seed',()=>{let i=garden.findIndex(v=>v===0);if(i<0){say('Every plot is already planted.');return;}garden[i]=1;say('A little seed settles into the soil.',true)}),bt('Water the garden',()=>{let n=0;garden.forEach((v,i)=>{if(v>0&&v<3){garden[i]=Math.min(3,v+1);n++}});say(n?'The garden drinks quietly. Some shoots have grown.':'No seeds need watering just now.',n>0)}),bt('Start again',()=>{garden=[0,0,0,0];say('Four bare plots. Another beginning.',true)}));break;
-case 'forge':tag='Little game 02';t='Make a lantern';descr='Two kinds of light, ignition and reflection. Explore either, both, or neither. Combining them creates a small lantern, not a victory condition.';tools.append(bt(forge.fire?'6 · Ignition found ✓':'Look at 6 · Ignition',()=>{forge.fire=true;say('A warm spark is here. No one has to use it.',true);refreshTools()}),bt(forge.mirror?'9 · Reflection found ✓':'Look at 9 · Reflection',()=>{forge.mirror=true;say('The mirror holds a second kind of light.',true);refreshTools()}),bt('Make a lantern',()=>{if(!forge.fire||!forge.mirror){say('The forge hums. Both lights are needed to make a lantern.');return;}forge.lanterns++;forge.fire=false;forge.mirror=false;say('Together the lights make a little lantern. Milo admires it. ('+forge.lanterns+' made)',true);refreshTools()}));break;
+case 'forge': {
+    tag = 'Little game 02';
+    t = 'Make a lantern';
+    if (lanternLocation) {
+        descr = 'The two lights have made a little lantern.';
+        const route = lanternLocation === 'carried' ? 'Carry the lantern to the Room' : 'Visit the lantern in the Room';
+        tools.append(bt(route, () => setScene('room')));
+        break;
+    }
+    const ready = forge.fire && forge.mirror;
+    descr = ready
+        ? 'Both lights are ready. Make a lantern to carry with you.'
+        : 'Look at Ignition and Reflection. With both lights, you can make a lantern.';
+    tools.append(
+        bt(forge.fire ? '6 · Ignition found ✓' : 'Look at 6 · Ignition', () => {
+            forge.fire = true;
+            say('A warm spark is here. No one has to use it.', true);
+            refreshTools();
+        }),
+        bt(forge.mirror ? '9 · Reflection found ✓' : 'Look at 9 · Reflection', () => {
+            forge.mirror = true;
+            say('The mirror holds a second kind of light.', true);
+            refreshTools();
+        }),
+        bt('Make a lantern', makeLantern, !ready)
+    );
+    break;
+}
 case 'stars':tag='Little game 03';t='Connect the stars';descr='Tap stars in any order. The constellation is yours to invent, not a puzzle with one correct answer.';{const field=document.createElement('input');field.type='text';field.maxLength=48;field.placeholder='Name your constellation';field.setAttribute('aria-label','Constellation name');tools.append(field,bt('Keep this constellation',()=>{if(constellations.length<2){say('Choose at least two stars to draw a line.');return;}const name=field.value.trim()||'The Unnamed';say('A new constellation: '+name+'. It belongs to tonight.',true);namedStars.push({name,points:constellations.slice()});}),bt('Clear sky',()=>{constellations=[];say('The sky is open again.')}));}break;
 case 'door':tag='Little game 04';t='The mystery box';descr='There is no predetermined answer hidden here. Opening the box reveals a small, random storybook discovery; the blue door leads back to the Room.';tools.append(bt('Open the mystery box',openBox),bt('Go through the blue door',()=>setScene('room')));break;}
-$('featureTag').textContent=tag;$('featureTitle').textContent=t;$('featureInfo').textContent=descr;}
+$('featureTag').textContent=tag;$('featureTitle').textContent=t;$('featureInfo').textContent=descr;
+if (lanternLocation === 'carried') {
+    $('modeMsg').textContent = 'Milo is carrying the lit lantern.';
+} else {
+    $('modeMsg').textContent = lanternLocation === 'window' && (scene === 'room' || scene === 'forge')
+        ? 'The lantern is glowing by the Room’s window.'
+        : '';
+}
+}
 function openBox(){const item=surprises[boxOpened%surprises.length];boxOpened++;say('Inside: '+item[0]+'. '+item[1],true)}
 function nearby(){return objects[scene].filter(o=>Math.abs(o.x-p.x)<=o.r).sort((a,b)=>Math.abs(a.x-p.x)-Math.abs(b.x-p.x))[0]}
 function interact(o=nearby()){if(!o){say('Milo looks around. The world remains open.');return;}switch(scene){case 'room':switch(o.label){case 'hearth':flame=!flame;say(flame?'The fire crackles gently.':'The fire settles into embers.',true);break;case 'books':say('A book rests open. On one page: “Truth, with love.”',true);break;case 'door':setScene('door');break;case 'candle knight':say('“GOOD DAY, COUSIN!” says Sir Wicksworth. His flame is quite cheerful.',true);break;}break;
@@ -169,6 +275,14 @@ $('tabs').addEventListener('click',e=>{const t=e.target.closest('[data-scene]');
 c.addEventListener('click',e=>{const rect=c.getBoundingClientRect();const x=(e.clientX-rect.left)/rect.width*W;const y=(e.clientY-rect.top)/rect.height*H;if(scene==='stars'){const i=stars.findIndex(a=>Math.hypot(a.x-x,a.y-y)<36);if(i>=0){if(!constellations.includes(i)){constellations.push(i);say('A star joins the constellation.'+(constellations.length>1?' A line appears.':''))}else say('You have already chosen that star.');return;}}const hit=objects[scene].filter(o=>Math.abs(o.x-x)<85&&y>125&&y<455).sort((a,b)=>Math.abs(a.x-x)-Math.abs(b.x-x))[0];if(hit){p.x=Math.max(30,Math.min(969,hit.x));interact(hit)}else{p.x=Math.max(30,Math.min(969,x));say('Milo wanders over to have a look.')}});
 $('exportNotes').addEventListener('click',()=>{let txt='MILO’S WORLD / THE POCKET NOTEBOOK\nAn annex of Aion Tekmirion\n\n'+(notes.length?notes.map(n=>n.t+' — '+n.txt).join('\n'):'No discoveries recorded yet.')+'\n';const blob=new Blob([txt],{type:'text/plain;charset=utf-8'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='milo-world-notes.txt';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)});
 $('clearNotes').addEventListener('click',()=>{notes=[];save();drawNotes();say('The notebook is empty again. Nothing was sent anywhere.')});
+window.addEventListener('storage', event => {
+    if (event.key !== lanternKey && event.key !== null) return;
+    const location = readLanternLocation();
+    if (location === lanternLocation) return;
+    lanternLocation = location;
+    refreshTools();
+});
+
 // Optional adapter for future integrations. External AI control is NOT bundled into this page.
 // Every action must be explicitly wired by the host. No automatic network requests are made.
 window.MiloWorld=Object.freeze({
