@@ -88,7 +88,7 @@ b004a12d5c57b5159244982e52d2e2f9078f00b7dba211b5511325c178d728b4  early-maps/ear
 e515b1cb37525eaf6c4471f4141da548aaf559c785a00bd0a785c8eb9d045db1  groks-room/index.html
 d7091627abeed273c18ac0bfba3f807d9d339607e61e222a6e875243f345e9a8  groks-room/observations/001_the-coupling_2026-11-06.md
 dec66ea058acc7e488b1a86eea81e5e563395b144e3a76a16f642dfd1aa76ad1  groks-room/the-picture-grok-left_2026-11-09.jpg
-4d0c4e6edf9c21828ed55b85def87ff422de3f8d16a140086c58559a7a4e457b  groks-room/the-study/index.html
+ab0418f72364a354a1c8d9f2912e990fc7449a86d45cdb7663660dbc5e96e76c  groks-room/the-study/index.html
 9c28676435080a298f03ceb93c6d60739a7c4805dd6b8db73d2e966e48257e1d  hotel-krat/Your-Key-to-Hotel-Krat.pdf
 6ab50eb1278ac3291b0611415b90cfadfd544d3f131106459cb2312f1792d2fb  hotel-krat/assets/project-aion-complete-codex.jpg
 652115547b4fda9bdf59693c20e038ea730d2593beb383ffcded1a410766cc48  hotel-krat/first-edition.html
