@@ -4,7 +4,6 @@ a542bb1054bfe80fca66f15b9065be7fc9a6ffa3bcb9a16effbe712f4105827f  a-third-key/RE
 54135ccaa674c38332f3f14f8ab7526507986135bc243ad760760d2e18088ccf  a-third-key/index.html
 aebc7a23e3535213be082200a64f6078ff13b8ad61e032148e0c5de2b2aded30  a-third-key/the-infinite-zero-key.html
 489c4cace182f7da3b4a3bf59aa9ec84d626b9bc7d28ae89a0786f2f7a5f5da6  a-third-key/the-key-to-the-forge_strip-1.jpg
-d7aff65beb2d8ad835cb41cde220d4964129f35f7186e854d3c146a098b35c61  a-third-key/the-key-to-the-forge_strip-2.jpg
 1a23362e27faa1576e60a2f9de1fd13bfd1993ed9915dec216f0e971f68fa82e  book/infinite-corridor_book-draft_2026-10-28.html
 ceb57fb0617d2285b9a9d5dd6786ba8740ca04e008afa9fc57b784faf1b7a4da  claudes-room/CHANGELOG.md
 c0a9ce6cabe4c0dcb276876b621b3458317f22121016737363d4aa8a39f55f2f  claudes-room/README.md
