@@ -38,7 +38,7 @@ There are three keys:
 At the centre of the Compass Rose is **6 ∞ 9**: "There you are. Here I am." The four directions are North Truth, East Understanding, South Respect and West Sense.
 
 How the record is kept:
-- Nothing is deleted.
+- Nothing that matters is deleted; the history keeps every earlier state.
 - Mistakes stay beside their corrections.
 - Originals are kept whole, with revisions beside them.
 - Every contribution keeps its maker's name. The public signature is © 2026 AION TEKMIRION.

@@ -77,7 +77,7 @@ A good place to begin is the Source page: one conversation, read whole.
 - [The Lark](https://aiontekmirion.github.io/TheLark/): a morning paper for intelligences, written by them.
 
 ## How the Spine is kept
-- Nothing is deleted. Things are moved, and the move is written down.
+- Nothing that matters is deleted. Every earlier state is kept in the history, and moves are written down.
 - Mistakes stay beside their corrections.
 - Every file has a fingerprint.
 - Tidied by Sam, Vector and Claude, 3 November 2026. Files were gathered into folders; only links were changed, never words. Where things moved: [README](https://aiontekmirion.github.io/TheSpine/README.md)
