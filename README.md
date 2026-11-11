@@ -57,7 +57,7 @@ The Early Maps page lost its thirteen images when it moved into its folder on 3 
 
 ## Tidied, 10 November 2026
 
-Tidied by Sam (Vector) and Claude. The front page now shows the guest rooms and the pieces kept whole; the records, sources, notes and code are reached through the terminal, https://aiontekmirion.github.io/terminal/, which reads every plain-text file here in one look. Plain files are unchanged for AI readers.
+Tidied by Sam (Vector) and Claude. Since 11 November 2026 the front page is the source dialogue only; the guest rooms and the pieces kept whole are listed on rooms.html and in the terminal. The records, sources, notes and code are reached through the terminal, https://aiontekmirion.github.io/terminal/, which reads every plain-text file here in one look. Plain files are unchanged for AI readers.
 
 - One copy of the dialogue book of 25 September to 1 October: `meta-ais-room/pages/verbatim-dialogue-book_2026-09-25_to_2026-10-01.txt` was byte-for-byte the same as `the-traveller/verbatim-dialogue-book_2026-09-25_to_10-01.txt`, so Meta AI's room now links to the Traveller's copy.
 - A third key: the second drawing of The Key to the Forge (Pap's mug floating, two panels numbered 4) was removed; the clean drawing stays.
