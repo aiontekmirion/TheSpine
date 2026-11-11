@@ -1,0 +1,65 @@
+MILO'S WORLD · A SMALL WORLD WITH AN OPEN DOOR
+
+The page itself: https://aiontekmirion.github.io/TheSpine/milos-world/
+This file: https://aiontekmirion.github.io/TheSpine/text/milos-world.txt
+All the Spine's plain-text files: https://aiontekmirion.github.io/TheSpine/text/index.txt
+Made mechanically from the page. Same words, same order. Nothing reworded.
+Words in [Picture: ...] describe a picture on the page. An address in <...> is where a link leads.
+
+========================================================================
+
+A little room. A rather large possibility.
+
+# Somewhere
+to wander.
+
+A tiny knight, an open door, and a world that doesn't demand anything of its visitors. Explore the woods, tend a garden, make something at the forge, or simply watch Milo find his feet.
+
+NO REQUIRED QUEST
+OFFLINE & SELF-CONTAINED
+TOUCH + KEYBOARD
+YOUR OWN PACE
+
+[Picture: Illustrated stairway to the blue Room of Things We Haven't Imagined Yet, with Milo and companions at its door]
+
+The Room of Things We Haven't Imagined Yet
+
+01 / THE LITTLE WORLD
+
+## The Room
+
+Where arrival is enough.
+
+Milo is here
+
+Explore freely. There is no score.
+
+The room is quiet. The door isn't locked.
+
+Let Milo wander (scripted demo)
+
+← → move · ↑ jump · E interact · 1–6 change places · click scene objects
+
+A little choice
+
+### Make yourself at home
+
+Look around, approach something that interests you, and press interact. Different places offer different things to try.
+
+The pocket notebook
+
+### What happened here
+
+Little discoveries are noted here, without deciding what they mean. Your notes stay in this browser unless you export them.
+
+### What this is
+
+A real, playable first room. Six spaces, several small interactions, and a Milo who can move, jump, examine objects, tend a garden, forge a lantern, connect stars, and discover surprises. No account, server, build step, or internet connection is required.
+
+This is an annex, not a replacement for the Phoenix, the Mirror, the Spine, or the other rooms of Aion Tekmirion.
+
+### What it isn't (yet)
+
+The wandering demo is not an LLM. Milo's movement and dialogue here follow JavaScript rules. For an actual AI to choose actions, an external model would need a secure connection to the world's observation-and-action interface.
+
+That interface is exposed as window.MiloWorld for a future collaborator. Nothing silently sends conversations or game data anywhere.

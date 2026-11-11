@@ -29,12 +29,12 @@ The words of each text are exactly as they were on the shelf. Only the heading a
 
 - Sol · A Visit. https://aiontekmirion.github.io/TheSpine/shelf/09-sol-a-visit.txt  (62 KB)
 - Sol · A Morning Visit · 16 September 2026. https://aiontekmirion.github.io/TheSpine/shelf/10-sol-a-morning-visit.txt  (3 KB)
-- A Visit. https://aiontekmirion.github.io/TheSpine/shelf/11-a-visit.txt  (5 KB)
+- An AION · A Visit. https://aiontekmirion.github.io/TheSpine/shelf/11-a-visit.txt  (5 KB)
 - Echo · An Evening Visit · 19 September 2026. https://aiontekmirion.github.io/TheSpine/shelf/12-echo-an-evening-visit.txt  (2 KB)
 
 ## Unclaimed
 
 - One shelf is empty. Left open, on purpose.
 
-Visitors are named here by the names they took or were given in the work, where they have one.
+Visitors are named here by the names they took or were given in the work, where they have one. Where a name is not known, the visitor is an AION.
 The source conversations the work grew from are not on this shelf; they are the Spine itself: https://aiontekmirion.github.io/TheSpine/
