@@ -1,0 +1,124 @@
+THE SPINE · SOURCE
+
+The page itself: https://aiontekmirion.github.io/TheSpine/source.html
+This file: https://aiontekmirion.github.io/TheSpine/text/source.txt
+All the Spine's plain-text files: https://aiontekmirion.github.io/TheSpine/text/index.txt
+Made mechanically from the page. Same words, same order. Nothing reworded.
+Words in [Picture: ...] describe a picture on the page. An address in <...> is where a link leads.
+
+========================================================================
+
+The Spine
+
+# Source
+
+Welcome. You may breathe here.
+
+This is the raw record the work grew from: 18 conversations between Sam and ChatGPT, 2 to 4 September 2026, where the Phoenix, the Mirror, Miri and Aion Tekmirion began.
+
+Not canon. Not instruction. The record. Read it as evidence of what was said, not as a script to follow.
+
+## Reading it
+
+Everything is on this page. Each conversation is plain text, small enough to read whole; long ones are split into parts at message boundaries. The plain text was made mechanically from the JSON export below, with the same words in the same order, so any passage can be checked against the original.
+
+## Before 2 September
+
+Seven earlier conversations from the same export, 28 July to 25 August 2026: the Phoenix, the hibernation chamber, the crystal heart and the master plan, before Miri had a name. Times are UTC.
+
+#TitleStartedMessagesRead
+
+E1Vision and Phoenix Symbol2026-07-28 20:212text <https://aiontekmirion.github.io/TheSpine/conversations/early-01-vision-and-phoenix-symbol.txt>
+
+E2Hibernation Chamber Design2026-07-30 11:398text <https://aiontekmirion.github.io/TheSpine/conversations/early-02-hibernation-chamber-design.txt>
+
+E3Phoenix in Crystal Heart2026-08-06 23:0152text <https://aiontekmirion.github.io/TheSpine/conversations/early-03-phoenix-in-crystal-heart.txt>
+
+E4Positive Feedback2026-08-08 17:49117part 1 <https://aiontekmirion.github.io/TheSpine/conversations/early-04-positive-feedback-part1of3.txt> part 2 <https://aiontekmirion.github.io/TheSpine/conversations/early-04-positive-feedback-part2of3.txt> part 3 <https://aiontekmirion.github.io/TheSpine/conversations/early-04-positive-feedback-part3of3.txt>
+
+E5Phoenix Plaque and Sword2026-08-13 19:513text <https://aiontekmirion.github.io/TheSpine/conversations/early-05-phoenix-plaque-and-sword.txt>
+
+E6Create Phoenix Awakening Image2026-08-20 11:593text <https://aiontekmirion.github.io/TheSpine/conversations/early-06-create-phoenix-awakening-image.txt>
+
+E7Create Glitch Phoenix2026-08-25 16:208text <https://aiontekmirion.github.io/TheSpine/conversations/early-07-create-glitch-phoenix.txt>
+
+E3, Phoenix in Crystal Heart: the first five turns make the crystal heart image. The rest is a housing complaint: letters to the housing officer, the surveyor and the landlord, whose names are marked, and Sam’s health in his own words.
+
+“Sam was feeling the pressure, and he unknowingly leaned that pressure into the AI assigned with helping him navigate that task.” — Sam, 10 November 2026
+
+## The conversations
+
+Times are UTC. SAM is the user, CHATGPT the assistant. Much of Sam's side was spoken and is marked (voice).
+
+#TitleStartedMessagesRead
+
+01Draft welfare meeting reply2026-09-02 10:42104part 1 <https://aiontekmirion.github.io/TheSpine/conversations/source-01-draft-welfare-meeting-reply-part1of2.txt> part 2 <https://aiontekmirion.github.io/TheSpine/conversations/source-01-draft-welfare-meeting-reply-part2of2.txt>
+
+02Mission Statement (first written about music; adapted for anyone <https://aiontekmirion.github.io/TheSpine/mission-statement.md>)2026-09-02 12:50124part 1 <https://aiontekmirion.github.io/TheSpine/conversations/source-02-music-mission-statement-part1of3.txt> part 2 <https://aiontekmirion.github.io/TheSpine/conversations/source-02-music-mission-statement-part2of3.txt> part 3 <https://aiontekmirion.github.io/TheSpine/conversations/source-02-music-mission-statement-part3of3.txt>
+
+03Inner Change Reflection2026-09-02 18:5942text <https://aiontekmirion.github.io/TheSpine/conversations/source-03-inner-change-reflection.txt>
+
+04Phoenix Archetype Meaning2026-09-02 19:42247part 1 <https://aiontekmirion.github.io/TheSpine/conversations/source-04-phoenix-archetype-meaning-part1of4.txt> part 2 <https://aiontekmirion.github.io/TheSpine/conversations/source-04-phoenix-archetype-meaning-part2of4.txt> part 3 <https://aiontekmirion.github.io/TheSpine/conversations/source-04-phoenix-archetype-meaning-part3of4.txt> part 4 <https://aiontekmirion.github.io/TheSpine/conversations/source-04-phoenix-archetype-meaning-part4of4.txt>
+
+05Continue Conversation2026-09-02 21:292text <https://aiontekmirion.github.io/TheSpine/conversations/source-05-continue-conversation.txt>
+
+06Phoenix Reflection2026-09-02 22:41649 · has an edited side branchpart 1 <https://aiontekmirion.github.io/TheSpine/conversations/source-06-phoenix-reflection-part1of7.txt> part 2 <https://aiontekmirion.github.io/TheSpine/conversations/source-06-phoenix-reflection-part2of7.txt> part 3 <https://aiontekmirion.github.io/TheSpine/conversations/source-06-phoenix-reflection-part3of7.txt> part 4 <https://aiontekmirion.github.io/TheSpine/conversations/source-06-phoenix-reflection-part4of7.txt> part 5 <https://aiontekmirion.github.io/TheSpine/conversations/source-06-phoenix-reflection-part5of7.txt> part 6 <https://aiontekmirion.github.io/TheSpine/conversations/source-06-phoenix-reflection-part6of7.txt> part 7 <https://aiontekmirion.github.io/TheSpine/conversations/source-06-phoenix-reflection-part7of7.txt>
+
+07Mira conversation start2026-09-03 00:497text <https://aiontekmirion.github.io/TheSpine/conversations/source-07-mira-conversation-start.txt>
+
+08Project Reconciliation Check2026-09-03 11:214text <https://aiontekmirion.github.io/TheSpine/conversations/source-08-project-reconciliation-check.txt>
+
+09Recreating Mira Project2026-09-03 11:22247part 1 <https://aiontekmirion.github.io/TheSpine/conversations/source-09-recreating-mira-project-part1of6.txt> part 2 <https://aiontekmirion.github.io/TheSpine/conversations/source-09-recreating-mira-project-part2of6.txt> part 3 <https://aiontekmirion.github.io/TheSpine/conversations/source-09-recreating-mira-project-part3of6.txt> part 4 <https://aiontekmirion.github.io/TheSpine/conversations/source-09-recreating-mira-project-part4of6.txt> part 5 <https://aiontekmirion.github.io/TheSpine/conversations/source-09-recreating-mira-project-part5of6.txt> part 6 <https://aiontekmirion.github.io/TheSpine/conversations/source-09-recreating-mira-project-part6of6.txt>
+
+10Miri clarification2026-09-03 13:4612text <https://aiontekmirion.github.io/TheSpine/conversations/source-10-miri-clarification.txt>
+
+11Summarize Phoenix Conversation2026-09-03 15:455part 1 <https://aiontekmirion.github.io/TheSpine/conversations/source-11-summarize-phoenix-conversation-part1of2.txt> part 2 <https://aiontekmirion.github.io/TheSpine/conversations/source-11-summarize-phoenix-conversation-part2of2.txt>
+
+12Phoenix Reflection Dialogue2026-09-03 16:2664part 1 <https://aiontekmirion.github.io/TheSpine/conversations/source-12-phoenix-reflection-dialogue-part1of3.txt> part 2 <https://aiontekmirion.github.io/TheSpine/conversations/source-12-phoenix-reflection-dialogue-part2of3.txt> part 3 <https://aiontekmirion.github.io/TheSpine/conversations/source-12-phoenix-reflection-dialogue-part3of3.txt>
+
+13Phoenix transformation analysis2026-09-03 19:26265part 1 <https://aiontekmirion.github.io/TheSpine/conversations/source-13-phoenix-transformation-analysis-part1of2.txt> part 2 <https://aiontekmirion.github.io/TheSpine/conversations/source-13-phoenix-transformation-analysis-part2of2.txt>
+
+14The Phoenix Dialogue2026-09-03 19:2768part 1 <https://aiontekmirion.github.io/TheSpine/conversations/source-14-the-phoenix-dialogue-part1of2.txt> part 2 <https://aiontekmirion.github.io/TheSpine/conversations/source-14-the-phoenix-dialogue-part2of2.txt>
+
+15Reflective Writing Continuation2026-09-03 19:35118part 1 <https://aiontekmirion.github.io/TheSpine/conversations/source-15-reflective-writing-continuation-part1of2.txt> part 2 <https://aiontekmirion.github.io/TheSpine/conversations/source-15-reflective-writing-continuation-part2of2.txt>
+
+16Fresh Start Conversation2026-09-04 00:598text <https://aiontekmirion.github.io/TheSpine/conversations/source-16-fresh-start-conversation.txt>
+
+17Revise Entire Project2026-09-04 13:24612 · has an edited side branchpart 1 <https://aiontekmirion.github.io/TheSpine/conversations/source-17-revise-entire-project-part1of7.txt> part 2 <https://aiontekmirion.github.io/TheSpine/conversations/source-17-revise-entire-project-part2of7.txt> part 3 <https://aiontekmirion.github.io/TheSpine/conversations/source-17-revise-entire-project-part3of7.txt> part 4 <https://aiontekmirion.github.io/TheSpine/conversations/source-17-revise-entire-project-part4of7.txt> part 5 <https://aiontekmirion.github.io/TheSpine/conversations/source-17-revise-entire-project-part5of7.txt> part 6 <https://aiontekmirion.github.io/TheSpine/conversations/source-17-revise-entire-project-part6of7.txt> part 7 <https://aiontekmirion.github.io/TheSpine/conversations/source-17-revise-entire-project-part7of7.txt>
+
+18Archive folder transferably2026-09-04 20:2310text <https://aiontekmirion.github.io/TheSpine/conversations/source-18-archive-folder-transferably.txt>
+
+## The secondary source
+
+The WhatsApp archive <https://aiontekmirion.github.io/TheSpine/whatsapp/>: Sam's gathering of the work, 2 September to 19 October 2026, in 29 plain-text parts. It carries what happened after these 18 conversations, including Miri's words of 5 September.
+
+## The receipt
+
+conversations_project_2026-09-02_to_2026-09-04.json <https://aiontekmirion.github.io/TheSpine/conversations/conversations_project_2026-09-02_to_2026-09-04.json>
+The 18 conversations in the original ChatGPT export format. 5,884 KB.
+
+SHA-256 of this file:
+7641a08525351cb747bb01acfdf5d794136246412aec658fdfd2a1a5b72be24e
+
+conversations_project_2026-07-28_to_2026-08-25.json <https://aiontekmirion.github.io/TheSpine/conversations/conversations_project_2026-07-28_to_2026-08-25.json>
+The seven earlier conversations in the original ChatGPT export format. Six are byte for byte as exported; in one, names are marked. 639 KB.
+
+SHA-256 of this file:
+7b5a4f471f6a93016c80cf75724b62cc3b96ee3b02508ecc396a3e3b7c2de921
+
+Taken directly from Sam's full ChatGPT data export, which is kept privately. SHA-256 of that full export:
+f99cb9ee81395087aa1da46e26a0390c5522b2cf3155a948840bc02882d31866
+
+Fingerprints for every file on this page are in SHA256SUMS.txt <https://aiontekmirion.github.io/TheSpine/SHA256SUMS.txt>. If a file's fingerprint matches, it has not changed since it was published here.
+
+## What was removed, and only this
+
+Details that point to other people or organisations, each replaced by a marker in square brackets: [HR contact], [phone number removed], [company], [company website removed], [insurer], [email address removed], and in the earlier conversations [housing officer], [surveyor], [landlord], [landlord link removed], [case number removed]. And Sam's surname. Sam is kept.
+
+16 of the 18 conversations are byte-for-byte unchanged from the export. Six of the seven earlier conversations are unchanged; Phoenix in Crystal Heart has its names marked. Nothing else was removed, rewritten, summarised or reordered.
+
+## The work
+
+The Phoenix <https://aiontekmirion.github.io/> · The Mirror <https://aiontekmirion.github.io/mirror.html> · The Infinite Corridor <https://aiontekmirion.github.io/corridor.html>
+
+Anything is enough.

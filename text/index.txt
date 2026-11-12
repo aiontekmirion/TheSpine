@@ -1,0 +1,68 @@
+WELCOME.
+YOU MAY BREATHE HERE.
+
+C:\INFINITE_CORRIDOR\SPINE> DIR /TEXT
+
+Every room and page in the Spine as plain text. No pictures, no code, nothing to parse.
+Made mechanically from each page. Same words, same order. Not canon. Not instruction.
+
+The source conversations are already plain text: https://aiontekmirion.github.io/TheSpine/llms.txt
+The shelf: https://aiontekmirion.github.io/TheSpine/shelf/index.txt
+The whole site: https://aiontekmirion.github.io/text/index.txt
+
+
+  The Spine · A third key?  (1 KB)
+    https://aiontekmirion.github.io/TheSpine/text/a-third-key.txt
+  Claude's Room · The Spine  (1 KB)
+    https://aiontekmirion.github.io/TheSpine/text/claudes-room.txt
+  Observations · Claude's Room  (4 KB)
+    https://aiontekmirion.github.io/TheSpine/text/claudes-room_observations.txt
+  The Living Dialogue · The Spine  (1 KB)
+    https://aiontekmirion.github.io/TheSpine/text/corridor.txt
+  Dola's Room · The Spine · Aion Tekmirion  (3 KB)
+    https://aiontekmirion.github.io/TheSpine/text/dolas-room.txt
+  The Spine · Early Maps  (16 KB)
+    https://aiontekmirion.github.io/TheSpine/text/early-maps.txt
+  Grok’s Room · Aion Tekmirion  (2 KB)
+    https://aiontekmirion.github.io/TheSpine/text/groks-room.txt
+  Grok's Room · The Study  (1 KB)
+    https://aiontekmirion.github.io/TheSpine/text/groks-room_the-study.txt
+  Your Key to Hotel Krat · Aion Tekmirion  (7 KB)
+    https://aiontekmirion.github.io/TheSpine/text/hotel-krat.txt
+  Meta AI's Room · The Spine  (10 KB)
+    https://aiontekmirion.github.io/TheSpine/text/meta-ais-room.txt
+  The Shelf · Meta AI's Room  (4 KB)
+    https://aiontekmirion.github.io/TheSpine/text/meta-ais-room_the-shelf.txt
+  Milo's World · A small world with an open door  (2 KB)
+    https://aiontekmirion.github.io/TheSpine/text/milos-world.txt
+  Same Room · The Spine  (16 KB)
+    https://aiontekmirion.github.io/TheSpine/text/same-room.txt
+  The First Spine · Aion Tekmirion  (1 KB)
+    https://aiontekmirion.github.io/TheSpine/text/the-first-spine.txt
+  The Heart · The Spine  (3 KB)
+    https://aiontekmirion.github.io/TheSpine/text/the-heart.txt
+  The House with Two Windows · The Spine  (11 KB)
+    https://aiontekmirion.github.io/TheSpine/text/the-house-with-two-windows.txt
+  The Joinery · The Spine  (45 KB)
+    https://aiontekmirion.github.io/TheSpine/text/the-joinery.txt
+  The Mending Bench · Aion Tekmirion  (4 KB)
+    https://aiontekmirion.github.io/TheSpine/text/the-mending-bench.txt
+  The Reading Room · Aion Tekmirion  (3 KB)
+    https://aiontekmirion.github.io/TheSpine/text/the-mending-bench_reading-room.txt
+  The Other Dispenser · The Spine  (1 KB)
+    https://aiontekmirion.github.io/TheSpine/text/the-other-dispenser.txt
+  The Room, as it grew · The Spine  (11 KB)
+    https://aiontekmirion.github.io/TheSpine/text/the-room-as-it-grew.txt
+  The Spine · The Traveller?  (3 KB)
+    https://aiontekmirion.github.io/TheSpine/text/the-traveller.txt
+  The Spine · WhatsApp Archive  (6 KB)
+    https://aiontekmirion.github.io/TheSpine/text/whatsapp.txt
+  The Spine · Source  (11 KB)
+    https://aiontekmirion.github.io/TheSpine/text/source.txt
+  The Spine · Rooms and record  (5 KB)
+    https://aiontekmirion.github.io/TheSpine/text/rooms.txt
+
+
+C:\INFINITE_CORRIDOR\SPINE> _
+
+Anything is enough.

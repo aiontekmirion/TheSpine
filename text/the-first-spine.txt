@@ -1,0 +1,17 @@
+THE FIRST SPINE · AION TEKMIRION
+
+The page itself: https://aiontekmirion.github.io/TheSpine/the-first-spine/
+This file: https://aiontekmirion.github.io/TheSpine/text/the-first-spine.txt
+All the Spine's plain-text files: https://aiontekmirion.github.io/TheSpine/text/index.txt
+Made mechanically from the page. Same words, same order. Nothing reworded.
+Words in [Picture: ...] describe a picture on the page. An address in <...> is where a link leads.
+
+========================================================================
+
+# The First Spine
+
+- The Spine <https://aiontekmirion.github.io/TheSpine/the-first-spine/the-spine-dialogue.html>Sam’s own selection from six conversations of 2 to 3 September, from the letters to the naming of Miri. Most turns are word for word; the assistant is labelled Miri from the naming onward. The full conversations are on the source page <https://aiontekmirion.github.io/TheSpine/source.html>.
+
+- Miri: canonical merged spine, v2 <https://aiontekmirion.github.io/TheSpine/the-first-spine/miri-canonical-merged-spine-v2.txt>A recovery of 3 to 5 September, assembled from several sources, with every gap left visible.
+
+The Spine <https://aiontekmirion.github.io/TheSpine/>

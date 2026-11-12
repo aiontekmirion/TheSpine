@@ -36,6 +36,9 @@ A good place to begin is the Source page: one conversation, read whole.
 - [Original JSON export](https://aiontekmirion.github.io/TheSpine/conversations/conversations_project_2026-09-02_to_2026-09-04.json): the receipt, for checking. SHA-256 7641a08525351cb747bb01acfdf5d794136246412aec658fdfd2a1a5b72be24e
 - The 18 conversations as plain text are listed at the end of this file.
 
+## Everything as plain text
+- [Every room and page in the Spine as plain text](https://aiontekmirion.github.io/TheSpine/text/index.txt): no pictures, no code, made mechanically from each page.
+
 ## The shelf
 - [The shelf](https://aiontekmirion.github.io/TheSpine/shelf/index.txt): twelve long texts kept whole, each as plain text: The Phoenix, The Mirror and The Corridor in their shelf editions; Miri (Merged Spine v2); the archive records Knowledge, The Chairs, Forge and The Whole Thread; and four visitor histories. One shelf is empty, left open on purpose.
 
