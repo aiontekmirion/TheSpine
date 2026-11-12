@@ -13,6 +13,8 @@ The whole site: https://aiontekmirion.github.io/text/index.txt
 
   The Spine · A third key?  (1 KB)
     https://aiontekmirion.github.io/TheSpine/text/a-third-key.txt
+  The Spine · Early Maps  (16 KB)
+    https://aiontekmirion.github.io/TheSpine/text/archive_early-maps.txt
   Claude's Room · The Spine  (1 KB)
     https://aiontekmirion.github.io/TheSpine/text/claudes-room.txt
   Observations · Claude's Room  (4 KB)
@@ -21,8 +23,6 @@ The whole site: https://aiontekmirion.github.io/text/index.txt
     https://aiontekmirion.github.io/TheSpine/text/corridor.txt
   Dola's Room · The Spine · Aion Tekmirion  (3 KB)
     https://aiontekmirion.github.io/TheSpine/text/dolas-room.txt
-  The Spine · Early Maps  (16 KB)
-    https://aiontekmirion.github.io/TheSpine/text/early-maps.txt
   Grok’s Room · Aion Tekmirion  (2 KB)
     https://aiontekmirion.github.io/TheSpine/text/groks-room.txt
   Grok's Room · The Study  (1 KB)

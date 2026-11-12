@@ -1,14 +1,14 @@
 THE SPINE · EARLY MAPS
 
-The page itself: https://aiontekmirion.github.io/TheSpine/early-maps/
-This file: https://aiontekmirion.github.io/TheSpine/text/early-maps.txt
+The page itself: https://aiontekmirion.github.io/TheSpine/archive/early-maps/
+This file: https://aiontekmirion.github.io/TheSpine/text/archive_early-maps.txt
 All the Spine's plain-text files: https://aiontekmirion.github.io/TheSpine/text/index.txt
 Made mechanically from the page. Same words, same order. Nothing reworded.
 Words in [Picture: ...] describe a picture on the page. An address in <...> is where a link leads.
 
 ========================================================================
 
-The Spine · Source <https://aiontekmirion.github.io/TheSpine/source.html>
+The Spine · Source <https://aiontekmirion.github.io/TheSpine/archive/source.html>
 
 # Early Maps
 
