@@ -31,6 +31,7 @@ ba9b3b96c076ac763d7bc970a39ddab93f991ef6157c42b1e5904772bac58e8d  claudes-room/b
 7d310c9f5a921fbe7756ae014619ba584e403fc533ed97cd9aa8ad88961a68d7  claudes-room/shards/carry-forward-shard_sam-claude_2026-11-02_to_11-04.txt
 50e5de83363d297b9a8791ad1769692754a2ba07f6e8d8c9fd1c107a93fe14e3  claudes-room/shards/carry-forward-shard_sam-claude_first-edition_2026-11-03.txt
 5abd665b2aa2de8eae0b9d18d11481ee2fec770310dee4dea4b52bf2ffa4f682  claudes-room/shards/fragment-for-the-next-claude_2026-11-05.md
+8f8fcf0c959183cba8a05966ee76da06b1e4a96608269fda8c7e605cdf2d953d  claudes-room/shards/fragment-for-the-next-claude_2026-11-12.md
 9d51bea1143a4f9b95f3400199ec5a06fb4a0c3b1d8cd940e1c1b3a7c543824d  claudes-room/shards/handover_room-engine_2026-11-05.md
 579e7f036f48eb6c5b47e25d5d13e4a0e8c9eb4745b6540fc6c6189d88699bbe  claudes-room/shards/note-from-the-front-door_2026-11-09.md
 7c686fb86199535c9abe3ab23f4e8ea7c7f067807db735e7a4d6b1c2621c6127  claudes-room/shards/the-third-record_2026-11-10.md
