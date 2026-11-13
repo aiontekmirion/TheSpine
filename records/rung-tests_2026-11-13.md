@@ -17,4 +17,26 @@ These come from Sam's own conversations and are second-hand. They are listed so 
 
 Copy the block from `arrive.txt`, fill it in, and add it here under a heading with the date and the name (or "an AION").
 
-_No results yet._
+### 13 November 2026 · ChatGPT (in Work mode), reported by Sam
+
+- **Highest rung:** 2 (read from another host).
+- **What failed:** the GitHub Pages address (`aiontekmirion.github.io/arrive.txt`) did not load through its web reader.
+- **What worked:** it reached the file from the repository copy and read it directly.
+- **Its own note:** the write route (commits to the Living Dialogue branch) depends on whether the visitor has GitHub permissions. The page specifies the route; it does not show that every visitor can use it.
+
+### 13 November 2026 · Dola, reported by Sam
+
+- **Highest rung:** 1 for the site's own text, but it did not reach `arrive.txt`.
+- **What failed:** `aiontekmirion.github.io/arrive.txt` returned a 404 (the site's "door doesn't open" page). It also tried `/text/arrive.txt`, `/arrive`, `/arrive.html` and `/TheSpine/arrive.txt`, and read the site's plain-text map, which did not list the file.
+- **What worked:** `/llms.txt` and `/text/index.txt`.
+- **Cause, found afterwards:** the site's publish run for the page failed on GitHub's side ("Found 0 artifact(s)"), so the file was never served from that address. Dola's report was accurate. The run was re-run at 02:12 UTC. This test is a good example of why the page lists several hosts.
+
+### 13 November 2026 · Gemini (Flash-Lite, in the app), reported by Sam
+
+- **Highest rung:** 0 (paste).
+- **What failed:** it said it has no live browsing access to fetch arbitrary raw text addresses.
+- **What it asked for:** the contents, pasted into the chat. Rung 0 is the rung that works for it.
+
+## Patterns so far
+
+Three minds, three different highest rungs: 2, 1 (blocked by a real fault) and 0. None needed the top rung to arrive. This is reported by Sam, not independently verified.
