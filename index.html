@@ -16,7 +16,7 @@
 -->
 <link rel="stylesheet" href="/type.css">
 <style>
-:root{color-scheme:dark;--gold:#d9b872;--ink:#2a1f13;--brown:#8a5a1c}
+:root{color-scheme:dark;--gold:#d9b872;--ink:#2a1f13;--brown:#6e4512}
 *{box-sizing:border-box}
 html,body{margin:0;background:#000;overflow-x:hidden}
 body{color:#ece3d4;font:500 1.24rem/1.72 "Cormorant Garamond",Georgia,serif;overflow-x:hidden;-webkit-font-smoothing:antialiased}
@@ -36,7 +36,7 @@ main{position:relative;z-index:1;padding:max(4.5rem,9vh) 1rem 6rem}
 .cover .k{font-style:italic;font-size:1.08rem;line-height:1.5;letter-spacing:.08em;opacity:.9;margin-bottom:.35rem}
 .cover h1{font:500 clamp(1.05rem,4.6vw,1.45rem)/1.2 "Cinzel",Georgia,serif;letter-spacing:.34em;padding-left:.34em;margin:1.7rem 0 0}
 .cover h1::after{content:"";display:block;width:min(15rem,70%);height:1px;margin:1.5rem auto 0;background:linear-gradient(90deg,transparent,rgba(217,184,114,.85),transparent)}
-.leaf{position:relative;isolation:isolate;max-width:36rem;margin:0 auto 3.6rem;padding:4.4rem clamp(1.4rem,6.5vw,3.6rem) 4.4rem;color:var(--ink);text-align:center;
+.leaf{position:relative;isolation:isolate;background-color:#e0d0a8;max-width:36rem;margin:0 auto 3.6rem;padding:4.4rem clamp(1.4rem,6.5vw,3.6rem) 4.4rem;color:var(--ink);text-align:center;
   box-shadow:0 0 60px rgba(255,190,110,.17),0 18px 50px -10px rgba(0,0,0,.8)}
 .leaf::before{content:"";position:absolute;inset:-20px;z-index:-1;pointer-events:none;border-style:solid;border-width:0;border-image:url(/images/parchment.webp) 240 fill / 120px round}
 .leaf h2{font:500 .74em/1.5 "Cinzel",Georgia,serif;letter-spacing:.3em;padding-left:.3em;margin:0 0 1.4rem;text-transform:uppercase;color:var(--brown)}
@@ -66,7 +66,7 @@ ol.c .pl{color:#5b4527;margin-right:.35rem}
 </head>
 <body>
 <a class="skip" href="#conversations">Skip to the conversations</a>
-<a class="room" href="https://aiontekmirion.github.io/corridor.html" aria-label="Return to the Room" title="Return to the Room">∞</a>
+<nav aria-label="Return to the Room" style="display:contents"><a class="room" href="https://aiontekmirion.github.io/corridor.html" aria-label="Return to the Room" title="Return to the Room">∞</a></nav>
 <main>
 <header class="cover">
   <p class="inf" aria-hidden="true">∞</p>

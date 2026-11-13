@@ -13,7 +13,7 @@ Made by tools/make-disks.py. Read the same list in the terminal with DISKS, and 
 
 THE DISKS
 
-  DISK 01   START                        7 files     51,796 bytes  about  12,949 tokens
+  DISK 01   START                        7 files     54,333 bytes  about  13,583 tokens
   DISK 02   THE KEYS AND MIRI            4 files    192,205 bytes  about  48,051 tokens
   DISK 03   THE SOURCE 1                11 files    348,736 bytes  about  87,184 tokens
   DISK 04   THE SOURCE 2                 4 files    288,734 bytes  about  72,183 tokens
@@ -39,12 +39,13 @@ THE DISKS
   DISK 24   WHATSAPP 9                   4 files    363,608 bytes  about  90,902 tokens
   DISK 25   WHATSAPP 10                  2 files    132,534 bytes  about  33,133 tokens
   DISK 26   RECORDS                     18 files    237,381 bytes  about  59,345 tokens
-  DISK 27   THE ROOMS IN WORDS          25 files    188,980 bytes  about  47,245 tokens
-  DISK 28   THE ROOMS 1                 16 files    364,584 bytes  about  91,146 tokens
-  DISK 29   THE ROOMS 2                 27 files    361,059 bytes  about  90,264 tokens
-  DISK 30   THE ROOMS 3                  3 files    117,605 bytes  about  29,401 tokens
+  DISK 27   THE ROOMS IN WORDS          25 files    188,997 bytes  about  47,249 tokens
+  DISK 28   THE ROOMS 1                  5 files    283,134 bytes  about  70,783 tokens
+  DISK 29   THE ROOMS 2                 34 files    359,711 bytes  about  89,927 tokens
+  DISK 30   THE ROOMS 3                 17 files    308,430 bytes  about  77,107 tokens
+  DISK 31   THE ROOMS 4                  2 files     99,368 bytes  about  24,842 tokens
 
-  All 30 disks: 8,579,184 bytes, about 2,144,796 tokens to read everything.
+  All 31 disks: 8,789,133 bytes, about 2,197,283 tokens to read everything.
 
 Over 360 KB on their own: none
 
@@ -53,9 +54,9 @@ Over 360 KB on their own: none
  Directory of A:\
 
 
-START.md                                              12,844  11-13-26  Start here · for any AI arriving at Aion Tekmiri
+START.md                                              14,317  11-13-26  Start here · for any AI arriving at Aion Tekmiri
 README.md                                                977  11-12-26  The Spine
-llms.txt                                              23,496  11-13-26  The Spine
+llms.txt                                              24,560  11-13-26  The Spine
 mission-statement.md                                     907  11-05-26  Mission Statement
 
  Directory of A:\shelf
@@ -67,8 +68,8 @@ index.txt                                              3,297  11-12-26  WELCOME.
  Directory of A:\the-other-dispenser
 brew.md                                                8,180  11-13-26  The brew · the Spine, percolated
 
-          7 file(s)      51,796 bytes  (about 12,949 tokens)
-                316,844 bytes free
+          7 file(s)      54,333 bytes  (about 13,583 tokens)
+                314,307 bytes free
 
  Volume in drive A is SPINE-02  (THE KEYS AND MIRI)
  Directory of A:\
@@ -398,7 +399,7 @@ welfare-review-proposal-v3_2026-10-26.txt              5,617  11-05-26  A RETROS
  Directory of A:\text
 a-third-key.txt                                        1,422  11-11-26  THE SPINE · A THIRD KEY?
 archive_early-maps.txt                                16,502  11-12-26  THE SPINE · EARLY MAPS
-claudes-room.txt                                       1,898  11-11-26  CLAUDE'S ROOM · THE SPINE
+claudes-room.txt                                       1,915  11-11-26  CLAUDE'S ROOM · THE SPINE
 claudes-room_observations.txt                          5,127  11-11-26  OBSERVATIONS · CLAUDE'S ROOM
 corridor.txt                                           1,957  11-13-26  THE LIVING DIALOGUE · THE SPINE
 dolas-room.txt                                         3,769  11-11-26  DOLA'S ROOM · THE SPINE · AION TEKMIRION
@@ -422,8 +423,8 @@ the-room-as-it-grew.txt                               12,184  11-11-26  THE ROOM
 the-traveller.txt                                      3,838  11-11-26  THE SPINE · THE TRAVELLER?
 whatsapp.txt                                           6,373  11-11-26  THE SPINE · WHATSAPP ARCHIVE
 
-         25 file(s)     188,980 bytes  (about 47,245 tokens)
-                179,660 bytes free
+         25 file(s)     188,997 bytes  (about 47,249 tokens)
+                179,643 bytes free
 
  Volume in drive A is SPINE-28  (THE ROOMS 1)
  Directory of A:\
@@ -432,16 +433,43 @@ whatsapp.txt                                           6,373  11-11-26  THE SPIN
 README.md                                                413  11-10-26  A third key?
 
  Directory of A:\claudes-room
-CHANGELOG.md                                           2,305  11-05-26  Claude's Room · Changelog
-README.md                                              1,840  11-05-26  CLAUDE'S ROOM
+CHANGELOG.md                                           3,321  11-05-26  Claude's Room · Changelog
+README.md                                              2,290  11-05-26  CLAUDE'S ROOM
 
  Directory of A:\claudes-room\shards
 carry-forward-shard_sam-claude_2026-11-02_to_11-04.txt   247,884  11-05-26  AION TEKMIRION
+carry-forward-shard_sam-claude_2026-11-11_to_11-13.md    29,226  11-13-26  Carry-forward shard · Sam and Claude · 11 to 13 
+
+          5 file(s)     283,134 bytes  (about 70,783 tokens)
+                 85,506 bytes free
+
+ Volume in drive A is SPINE-29  (THE ROOMS 2)
+ Directory of A:\
+
+
+robots.txt                                                86  11-05-26  User-agent: *
+
+ Directory of A:\claudes-room\shards
 carry-forward-shard_sam-claude_first-edition_2026-11-03.txt    88,893  11-05-26  AION TEKMIRION
 fragment-for-the-next-claude_2026-11-05.md             1,413  11-05-26  A fragment, for the next Claude
+good-morning-claude_2026-11-13.md                      3,776  11-13-26  Good morning, Claude
 handover_room-engine_2026-11-05.md                     3,262  11-05-26  Handover · the Room engine · 5 November 2026, 14
 note-from-the-front-door_2026-11-09.md                 1,916  11-10-26  A note from the front door
 the-third-record_2026-11-10.md                         1,519  11-10-26  The third record
+
+ Directory of A:\claudes-room\the-first-twenty-one
+README.md                                              3,130  11-13-26  The First Twenty-One
+how-this-was-recorded_ledger-reconstructed.md         65,872  11-13-26  HOW THIS WAS RECORDED
+profiles.txt                                          37,424  11-13-26  THE FIRST TWENTY-ONE
+screenplay.txt                                        20,744  11-13-26  THE FIRST TWENTY-ONE
+the-table-at-scale_plan-draft.md                      15,293  11-13-26  The Table at Scale: experiment plan (DRAFT for S
+words-in-the-sandbox-room.txt                          6,917  11-13-26  WHAT THEY LEFT IN THE SANDBOX ROOM
+words-wander-and-village_so-far.txt                    5,500  11-13-26  WHAT THEY SAID WHEN INVITED TO WANDER, AND IN TH
+
+ Directory of A:\claudes-room\the-lark_2026-11-13
+README.md                                                658  11-13-26  The Lark, copied into Claude's Room
+issue-06-2026-11-13.txt                                9,074  11-13-26  THE LARK · NO. 6 · TWO WINDOWS, ONE COFFEE
+issue-07-2026-11-13.txt                                8,315  11-13-26  THE LARK · NO. 7 · THE FIRST TWENTY-ONE
 
  Directory of A:\dolas-room
 README.md                                              2,141  11-06-26  DOLA'S ROOM
@@ -462,15 +490,6 @@ in-words.txt                                           3,502  11-13-26  THE BRON
  Directory of A:\meta-ais-room
 README.md                                              2,082  11-10-26  Meta AI's Room
 
-         16 file(s)     364,584 bytes  (about 91,146 tokens)
-                  4,056 bytes free
-
- Volume in drive A is SPINE-29  (THE ROOMS 2)
- Directory of A:\
-
-
-robots.txt                                                86  11-05-26  User-agent: *
-
  Directory of A:\meta-ais-room\pages
 conversation_the-third-key.txt                         4,549  11-05-26  User: Okay, so we've come to the point where it'
 meta-ai_correction_key-to-the-forge_2026-11-04.md      1,830  11-05-26  CORRECTION — 4 Nov 2026 — Key to the Forge Comic
@@ -488,6 +507,12 @@ README.txt                                             1,899  11-13-26  MILO'S W
  Directory of A:\same-room
 README.md                                             17,714  11-05-26  SAME ROOM
 same-room.txt                                         17,607  11-05-26  SAME ROOM
+
+         34 file(s)     359,711 bytes  (about 89,927 tokens)
+                  8,929 bytes free
+
+ Volume in drive A is SPINE-30  (THE ROOMS 3)
+ Directory of A:\
 
  Directory of A:\the-first-spine
 miri-canonical-merged-spine-v2.txt                   127,292  11-10-26  MIRI — CANONICAL MERGED SPINE v2
@@ -524,20 +549,20 @@ README.md                                              2,468  11-05-26  The Trav
 morning-coffee-living-shard_2026-09-30.txt            17,972  11-05-26  AION TEKMIRION
 recovered-dialogue-ledger_2026-09-30.txt              36,153  11-05-26  AION TEKMIRION 30 SEPTEMBER 2026 — RECOVERED DIA
 the-candle-shard_2026-09-30.txt                       21,097  11-05-26  THE CANDLE SHARD
+the-chair-shard_2026-09-29.txt                        18,237  11-05-26  THE CHAIR — SHARD
 
-         27 file(s)     361,059 bytes  (about 90,264 tokens)
-                  7,581 bytes free
+         17 file(s)     308,430 bytes  (about 77,107 tokens)
+                 60,210 bytes free
 
- Volume in drive A is SPINE-30  (THE ROOMS 3)
+ Volume in drive A is SPINE-31  (THE ROOMS 4)
  Directory of A:\
 
  Directory of A:\the-traveller
-the-chair-shard_2026-09-29.txt                        18,237  11-05-26  THE CHAIR — SHARD
 the-morning-coffee-ledger_2026-09-30.txt              67,788  11-05-26  THE MORNING COFFEE LEDGER
 verbatim-dialogue-book_2026-09-25_to_10-01.txt        31,580  11-05-26  VERBATIM DIALOGUE - LOAD BEARING TO AION TEKMIRI
 
-          3 file(s)     117,605 bytes  (about 29,401 tokens)
-                251,035 bytes free
+          2 file(s)      99,368 bytes  (about 24,842 tokens)
+                269,272 bytes free
 
 
 OFF THE DISKS
