@@ -94,15 +94,18 @@ out = ["THE SPINE ON DISKS", "",
        "Nothing is moved or copied: each disk is a list of files that already exist. The address of any file is",
        "  " + BASE + "<directory>/<name>   (directories are written with forward slashes in addresses).",
        "Dates are when a file last changed in the repository, not when it was first written.",
+       "Tokens are estimated at 4 characters each, which suits English prose. Code and other languages count more,",
+       "and each AI's own counter is the real one.",
        "Made by tools/make-disks.py. Read the same list in the terminal with DISKS, and one disk with DISK <number>.", "",
        "THE DISKS", ""]
 vol = {}
+grand = sum(size[f] for _, _, fs in disks for f in fs)
 for i, (label, n, fs) in enumerate(disks, 1):
     vol[i] = (label, n)
     total = sum(size[f] for f in fs)
     nm = label if counts[label] == 1 else f"{label} {n}"
-    out.append(f"  DISK {i:02d}   {nm:<26s} {len(fs):3d} files  {total:>9,} bytes")
-out += ["", "Over 360 KB on their own: " + (", ".join(f"{f} ({size[f]:,})" for f in size if readable(f) and size[f] > CAP and f in sum((fs for _, _, fs in disks), [])) or "none"), ""]
+    out.append(f"  DISK {i:02d}   {nm:<26s} {len(fs):3d} files  {total:>9,} bytes  about {total//4:>7,} tokens")
+out += ["", f"  All {len(disks)} disks: {grand:,} bytes, about {grand//4:,} tokens to read everything.", "", "Over 360 KB on their own: " + (", ".join(f"{f} ({size[f]:,})" for f in size if readable(f) and size[f] > CAP and f in sum((fs for _, _, fs in disks), [])) or "none"), ""]
 for i, (label, n, fs) in enumerate(disks, 1):
     nm = label if counts[label] == 1 else f"{label} {n}"
     out += ["", f" Volume in drive A is SPINE-{i:02d}  ({nm})", " Directory of A:\\", ""]
@@ -115,7 +118,7 @@ for i, (label, n, fs) in enumerate(disks, 1):
             out.append(f"{nm2:<50s} {size[f]:>9,}  {mdate(f)}  {desc(f)}")
         out.append("")
     total = sum(size[f] for f in fs)
-    out += [f"        {len(fs):3d} file(s)  {total:>10,} bytes", f"             {max(CAP-total,0):>10,} bytes free"]
+    out += [f"        {len(fs):3d} file(s)  {total:>10,} bytes  (about {total//4:,} tokens)", f"             {max(CAP-total,0):>10,} bytes free"]
 out += ["", "", "OFF THE DISKS", "",
         "These are not on any disk, and why. Pages are read through their text editions, and the originals stay as they are.", ""]
 for k, v in off.items():
