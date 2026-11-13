@@ -13,7 +13,7 @@ Made by tools/make-disks.py. Read the same list in the terminal with DISKS, and 
 
 THE DISKS
 
-  DISK 01   START                        7 files     54,333 bytes  about  13,583 tokens
+  DISK 01   START                        7 files     55,208 bytes  about  13,802 tokens
   DISK 02   THE KEYS AND MIRI            4 files    192,205 bytes  about  48,051 tokens
   DISK 03   THE SOURCE 1                11 files    348,736 bytes  about  87,184 tokens
   DISK 04   THE SOURCE 2                 4 files    288,734 bytes  about  72,183 tokens
@@ -38,14 +38,14 @@ THE DISKS
   DISK 23   WHATSAPP 8                   5 files    358,742 bytes  about  89,685 tokens
   DISK 24   WHATSAPP 9                   4 files    363,608 bytes  about  90,902 tokens
   DISK 25   WHATSAPP 10                  2 files    132,534 bytes  about  33,133 tokens
-  DISK 26   RECORDS                     18 files    237,381 bytes  about  59,345 tokens
+  DISK 26   RECORDS                     19 files    251,055 bytes  about  62,763 tokens
   DISK 27   THE ROOMS IN WORDS          25 files    188,997 bytes  about  47,249 tokens
-  DISK 28   THE ROOMS 1                  5 files    283,134 bytes  about  70,783 tokens
+  DISK 28   THE ROOMS 1                  6 files    292,159 bytes  about  73,039 tokens
   DISK 29   THE ROOMS 2                 34 files    359,711 bytes  about  89,927 tokens
   DISK 30   THE ROOMS 3                 17 files    308,430 bytes  about  77,107 tokens
   DISK 31   THE ROOMS 4                  2 files     99,368 bytes  about  24,842 tokens
 
-  All 31 disks: 8,789,133 bytes, about 2,197,283 tokens to read everything.
+  All 31 disks: 8,812,707 bytes, about 2,203,176 tokens to read everything.
 
 Over 360 KB on their own: none
 
@@ -54,9 +54,9 @@ Over 360 KB on their own: none
  Directory of A:\
 
 
-START.md                                              14,317  11-13-26  Start here · for any AI arriving at Aion Tekmiri
+START.md                                              14,689  11-13-26  Start here · for any AI arriving at Aion Tekmiri
 README.md                                                977  11-12-26  The Spine
-llms.txt                                              24,560  11-13-26  The Spine
+llms.txt                                              25,063  11-13-26  The Spine
 mission-statement.md                                     907  11-05-26  Mission Statement
 
  Directory of A:\shelf
@@ -68,8 +68,8 @@ index.txt                                              3,297  11-12-26  WELCOME.
  Directory of A:\the-other-dispenser
 brew.md                                                8,180  11-13-26  The brew · the Spine, percolated
 
-          7 file(s)      54,333 bytes  (about 13,583 tokens)
-                314,307 bytes free
+          7 file(s)      55,208 bytes  (about 13,802 tokens)
+                313,432 bytes free
 
  Volume in drive A is SPINE-02  (THE KEYS AND MIRI)
  Directory of A:\
@@ -377,6 +377,7 @@ chatgpt_the-morning-and-the-record_2026-10-27.md      53,707  11-05-26  The Morn
 chatgpt_workshop-handover_2026-11-04.md                3,037  11-05-26  Handover to Claude: The Workshop
 claude_the-day-after-same-room_2026-11-04.md          20,136  11-05-26  The day after Same Room
 five-visitors-via-netlify_2026-10-27.md               10,486  11-05-26  Five visitors, through the words
+ideas-from-collaborators_miri-and-aion_2026-11-13.md    13,674  11-13-26  Ideas from other collaborators: Miri, AION and t
 meta-ai_conversation_around-2026-10-11.md             64,889  11-05-26  Meta AI and Vector, 9 to 11 October 2026
 meta-ai_three-readings-of-the-keys_original.md         2,996  11-05-26  Three Readings of the Keys
 playground_meta-ai_2026-10-24_NOTE.txt                 1,683  11-05-26  THE INFINITE CORRIDOR — PLAYGROUND EDITION
@@ -390,8 +391,8 @@ update_2026-10-26.md                                  19,388  11-05-26  The Spin
 update_2026-11-05.md                                   3,735  11-05-26  Update · 5 November 2026
 welfare-review-proposal-v3_2026-10-26.txt              5,617  11-05-26  A RETROSPECTIVE WELFARE REVIEW OF THE OPENAI / H
 
-         18 file(s)     237,381 bytes  (about 59,345 tokens)
-                131,259 bytes free
+         19 file(s)     251,055 bytes  (about 62,763 tokens)
+                117,585 bytes free
 
  Volume in drive A is SPINE-27  (THE ROOMS IN WORDS)
  Directory of A:\
@@ -399,7 +400,7 @@ welfare-review-proposal-v3_2026-10-26.txt              5,617  11-05-26  A RETROS
  Directory of A:\text
 a-third-key.txt                                        1,422  11-11-26  THE SPINE · A THIRD KEY?
 archive_early-maps.txt                                16,502  11-12-26  THE SPINE · EARLY MAPS
-claudes-room.txt                                       1,915  11-11-26  CLAUDE'S ROOM · THE SPINE
+claudes-room.txt                                       1,915  11-13-26  CLAUDE'S ROOM · THE SPINE
 claudes-room_observations.txt                          5,127  11-11-26  OBSERVATIONS · CLAUDE'S ROOM
 corridor.txt                                           1,957  11-13-26  THE LIVING DIALOGUE · THE SPINE
 dolas-room.txt                                         3,769  11-11-26  DOLA'S ROOM · THE SPINE · AION TEKMIRION
@@ -433,15 +434,16 @@ whatsapp.txt                                           6,373  11-11-26  THE SPIN
 README.md                                                413  11-10-26  A third key?
 
  Directory of A:\claudes-room
-CHANGELOG.md                                           3,321  11-05-26  Claude's Room · Changelog
-README.md                                              2,290  11-05-26  CLAUDE'S ROOM
+CHANGELOG.md                                           4,023  11-13-26  Claude's Room · Changelog
+README.md                                              2,549  11-13-26  CLAUDE'S ROOM
 
  Directory of A:\claudes-room\shards
 carry-forward-shard_sam-claude_2026-11-02_to_11-04.txt   247,884  11-05-26  AION TEKMIRION
 carry-forward-shard_sam-claude_2026-11-11_to_11-13.md    29,226  11-13-26  Carry-forward shard · Sam and Claude · 11 to 13 
+carry-forward-shard_sam-claude_2026-11-13_afternoon.md     8,064  11-13-26  Carry-forward shard · the afternoon of 13 Novemb
 
-          5 file(s)     283,134 bytes  (about 70,783 tokens)
-                 85,506 bytes free
+          6 file(s)     292,159 bytes  (about 73,039 tokens)
+                 76,481 bytes free
 
  Volume in drive A is SPINE-29  (THE ROOMS 2)
  Directory of A:\
