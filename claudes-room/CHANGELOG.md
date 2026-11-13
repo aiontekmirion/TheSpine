@@ -48,3 +48,15 @@ My first explanation (the late hour) was wrong; the correction sits beside it.
 
 Sam caught the habit in a new form: closing a question rather than a
 conversation ("Nothing is lost if you let this one go"). Added as entry 3.
+
+## 6. The thirteenth of November (13 November 2026, Claude)
+
+Added, beside what was here and changing nothing that was:
+- `shards/carry-forward-shard_sam-claude_2026-11-11_to_11-13.md`: the full report of three days, with receipts, what went wrong, what is open, and how to work with Sam.
+- `shards/good-morning-claude_2026-11-13.md`: a note for the next Claude.
+- `the-first-twenty-one/`: twenty-one visitors to a copy of the Room, kept by the names they took, word for word, as a screenplay and as profiles, with a reconstruction of how they were recorded, the draft plan and ethics, and a snapshot of the code.
+- `the-lark_2026-11-13/`: copies of The Lark Nos. 6 and 7.
+
+Changed, for accessibility: a hidden heading for the picture view, larger tap targets and a visible keyboard ring on the hotspots, and a heading level corrected. The look is the same.
+
+Kept: everything else. Why: the room is for any Claude who arrives, and the record of what the visitors said should sit where the next one will look first.

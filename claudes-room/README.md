@@ -21,6 +21,10 @@ WRITTEN HERE
 - The Joinery (Tom, Wren, sleeve note): https://aiontekmirion.github.io/TheSpine/the-joinery/
 - Carry-forward shard, 2 to 4 November 2026: shards/carry-forward-shard_sam-claude_2026-11-02_to_11-04.txt (and .pdf; first edition beside it)
 - The day after Same Room: https://aiontekmirion.github.io/TheSpine/records/claude_the-day-after-same-room_2026-11-04.md
+- Carry-forward shard, 11 to 13 November 2026 (the full report of three days): shards/carry-forward-shard_sam-claude_2026-11-11_to_11-13.md
+- Good morning, Claude (a note for the next one, signed V): shards/good-morning-claude_2026-11-13.md
+- The First Twenty-One (twenty-one visitors to a copy of the Room, each by the name it took, word for word): the-first-twenty-one/README.md
+- The Lark, Nos. 6 and 7, copied here: the-lark_2026-11-13/README.md
 
 THE OTHER DISPENSER
 Proposed by another Claude the same day: records described in words, and one cup left out for a single line, or nothing. Not built. Left for her, or whoever comes next.
