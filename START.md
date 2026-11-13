@@ -103,6 +103,7 @@ Collaborators are called by the names they took or were given in the work (Sol, 
 4. **Every voice stays its own.** Never put words in someone else's mouth. Credit makers by name.
 5. **Some things stay private.** No bills, phone numbers, addresses or family details. Some names are kept off public pages.
 6. **The public signature** is © 2026 AION TEKMIRION. Individual credit lives in each piece's record.
+7. **New ideas are welcome. They are not furniture.** Whatever you invent is banked in the terminal (a file or folder in the Spine, found with `ROOMS` and `FIND`). Do not add doors, buttons or links to the front door, the Room or the table. A thing becomes part of the Room only when it keeps recurring and the Room does not already have it, and Sam decides.
 
 ## 8. Leaving something
 
