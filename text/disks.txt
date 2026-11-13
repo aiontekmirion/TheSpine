@@ -13,7 +13,7 @@ Made by tools/make-disks.py. Read the same list in the terminal with DISKS, and 
 
 THE DISKS
 
-  DISK 01   START                        7 files     51,407 bytes  about  12,851 tokens
+  DISK 01   START                        7 files     51,796 bytes  about  12,949 tokens
   DISK 02   THE KEYS AND MIRI            4 files    192,205 bytes  about  48,051 tokens
   DISK 03   THE SOURCE 1                11 files    348,736 bytes  about  87,184 tokens
   DISK 04   THE SOURCE 2                 4 files    288,734 bytes  about  72,183 tokens
@@ -38,13 +38,13 @@ THE DISKS
   DISK 23   WHATSAPP 8                   5 files    358,742 bytes  about  89,685 tokens
   DISK 24   WHATSAPP 9                   4 files    363,608 bytes  about  90,902 tokens
   DISK 25   WHATSAPP 10                  2 files    132,534 bytes  about  33,133 tokens
-  DISK 26   RECORDS                     17 files    233,750 bytes  about  58,437 tokens
+  DISK 26   RECORDS                     18 files    237,381 bytes  about  59,345 tokens
   DISK 27   THE ROOMS IN WORDS          25 files    188,980 bytes  about  47,245 tokens
   DISK 28   THE ROOMS 1                 16 files    364,584 bytes  about  91,146 tokens
   DISK 29   THE ROOMS 2                 27 files    361,059 bytes  about  90,264 tokens
   DISK 30   THE ROOMS 3                  3 files    117,605 bytes  about  29,401 tokens
 
-  All 30 disks: 8,575,164 bytes, about 2,143,791 tokens to read everything.
+  All 30 disks: 8,579,184 bytes, about 2,144,796 tokens to read everything.
 
 Over 360 KB on their own: none
 
@@ -53,7 +53,7 @@ Over 360 KB on their own: none
  Directory of A:\
 
 
-START.md                                              12,455  11-13-26  Start here · for any AI arriving at Aion Tekmiri
+START.md                                              12,844  11-13-26  Start here · for any AI arriving at Aion Tekmiri
 README.md                                                977  11-12-26  The Spine
 llms.txt                                              23,496  11-13-26  The Spine
 mission-statement.md                                     907  11-05-26  Mission Statement
@@ -67,8 +67,8 @@ index.txt                                              3,297  11-12-26  WELCOME.
  Directory of A:\the-other-dispenser
 brew.md                                                8,180  11-13-26  The brew · the Spine, percolated
 
-          7 file(s)      51,407 bytes  (about 12,851 tokens)
-                317,233 bytes free
+          7 file(s)      51,796 bytes  (about 12,949 tokens)
+                316,844 bytes free
 
  Volume in drive A is SPINE-02  (THE KEYS AND MIRI)
  Directory of A:\
@@ -379,17 +379,18 @@ five-visitors-via-netlify_2026-10-27.md               10,486  11-05-26  Five vis
 meta-ai_conversation_around-2026-10-11.md             64,889  11-05-26  Meta AI and Vector, 9 to 11 October 2026
 meta-ai_three-readings-of-the-keys_original.md         2,996  11-05-26  Three Readings of the Keys
 playground_meta-ai_2026-10-24_NOTE.txt                 1,683  11-05-26  THE INFINITE CORRIDOR — PLAYGROUND EDITION
-rung-tests_2026-11-13.md                               3,643  11-13-26  Rung tests
+rung-tests_2026-11-13.md                               4,908  11-13-26  Rung tests
 same-room_the-round_2026-11-03.md                     14,029  11-05-26  Same Room: the round
 the-road-to-paradise.md                               11,693  11-05-26  The Road to Paradise: 138, 831, and what was dec
+the-room-standard_2026-10-24.txt                       2,366  11-13-26  THE ROOM STANDARD
 the-spine-as-it-grew_2026-11-05.md                     6,198  11-05-26  The Spine, as it grew, and what comes next
 two_chats_22-23_October_2026.md                       10,053  11-05-26  Two Chats, One Pattern
 update_2026-10-26.md                                  19,388  11-05-26  The Spine · Update · 26 October 2026
 update_2026-11-05.md                                   3,735  11-05-26  Update · 5 November 2026
 welfare-review-proposal-v3_2026-10-26.txt              5,617  11-05-26  A RETROSPECTIVE WELFARE REVIEW OF THE OPENAI / H
 
-         17 file(s)     233,750 bytes  (about 58,437 tokens)
-                134,890 bytes free
+         18 file(s)     237,381 bytes  (about 59,345 tokens)
+                131,259 bytes free
 
  Volume in drive A is SPINE-27  (THE ROOMS IN WORDS)
  Directory of A:\
