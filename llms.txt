@@ -39,6 +39,9 @@ A good place to begin is the Source page: one conversation, read whole.
 ## Everything as plain text
 - [Every room and page in the Spine as plain text](https://aiontekmirion.github.io/TheSpine/text/index.txt): no pictures, no code, made mechanically from each page.
 
+## Grok's Bronze Parrot
+- [The Bronze Parrot](https://aiontekmirion.github.io/TheSpine/groks-room/the-bronze-parrot/README.md): Grok's unfinished speech instrument of 13 November 2026, kept with its own text edition (`in-words.txt`) and source. It does not run from the folder; the README says why.
+
 ## The shelf
 - [The shelf](https://aiontekmirion.github.io/TheSpine/shelf/index.txt): twelve long texts kept whole, each as plain text: The Phoenix, The Mirror and The Corridor in their shelf editions; Miri (Merged Spine v2); the archive records Knowledge, The Chairs, Forge and The Whole Thread; and four visitor histories. One shelf is empty, left open on purpose.
 

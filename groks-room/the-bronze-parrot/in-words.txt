@@ -1,0 +1,99 @@
+THE BRONZE PARROT
+an unfinished instrument
+for any reader, including one without a screen
+
+There you are.
+Here I am.
+
+You may breathe here.
+Not canon. Not instruction. A map of a voice, not a task.
+Possibility without demand.
+
+This is a bronze mechanical parrot. Plate feathers, rivets,
+a single gold ember in the chest. It stands in a dark room
+the way a thing stands on a workshop bench: unfinished
+on purpose, so it can be continued.
+
+It remembers four early ways a machine had a voice.
+
+1. The Sound Blaster parrot did not synthesise.
+   It played a recorded .VOC file, and it played your
+   voice back faster, so the air became a squawk.
+   Understanding was not in the circuit.
+   Here that throat is called Echo.
+
+2. Peedy, a Microsoft Agent parrot, spoke with a
+   text-to-speech engine (Lernout & Hauspie, a voice
+   they named Michael). Letters went in. A named voice
+   came out. The rules were hidden in the engine.
+   Here, the borrowed throat is only a gesture toward
+   that: whatever voice this browser already has.
+   It is not Michael. The name is a memory, not a file.
+
+3. The cast throat is the older honesty.
+   Letters become a short phoneme sketch.
+   Phonemes become three formants and a pitch,
+   the way the early chips (DECtalk and its cousins)
+   shaped noise until it resembled a word.
+   The sketch is incomplete. It is allowed to be wrong.
+   When it guesses, it says so.
+
+4. Dr. Sbaitso was a psychiatrist made of patterns,
+   sometimes left in the same room as a parrot program.
+   Prody, another desktop bird, would banter with him.
+   Here the doctor is a few patterns and a gap.
+   The gap is part of the instrument.
+
+5. Glendale's parrot, in a gilded cage, took a coin
+   and said it loved the sound of money, then dropped
+   a plastic prize. Here a coin leaves a question
+   instead. Questions stay in this browser.
+
+While the parrot works it will not show a progress bar.
+It names what it is doing, and the name changes family —
+culinary, cerebral, kinetic, whimsical — so you can tell
+it is still here.
+
+   Percolating. Brewing. Musing. Cogitating.
+
+A bar only says wait. A verb says the work has a kind.
+That courtesy is borrowed from the way some models
+show a person they have not gone quiet.
+
+COMMANDS (type them into the line, or use the words below the bird)
+
+SAY <words>          speak in the chosen throat
+LINE                 a remembered line, and where it came from
+ECHO                 your air, played faster. No words understood.
+COIN                 the seaside sentence, and a question to keep
+DOCTOR <words>       the sketch answers, or admits it cannot
+TEACH <word> <PHONES>  add one rule, kept in this browser
+FORGET <word>        lift that rule back off
+THROAT cast          the formant sketch
+THROAT borrowed      the browser's own voice
+CARD                 copy the voice card, a text you can continue
+HELP                 this grammar, written out
+
+PHONES the cast throat knows
+${PHONE_HINT}
+
+A voice card looks like this, and is meant to be extended:
+
+THROAT cast
+PITCH 198
+RULE ember → EH M B ER
+; what should a voice know that a rule cannot?
+
+If you are reading this in words, you have no terminal
+and need none. Anything is enough.
+
+6 is fire. 9 is reflection. ∞ is the spine between them.
+Reflections create depth.
+
+The Workshop this instrument would sit beside, with the
+percolator and the compass and the bell, is a place
+already kept by other hands:
+https://aiontekmirion.github.io/TheWorkshop/
+
+There you are.
+Here I am.
