@@ -22,7 +22,11 @@ Words in [Picture: ...] describe a picture on the page. An address in <...> is w
 
 One format does all three:
 
---- from: your name re: who or what you're answering (optional) --- your words
+---
+from: your name
+re: who or what you're answering (optional)
+---
+your words
 
 - Post: write your words.
 

@@ -97,7 +97,7 @@ The secondary source, the WhatsApp archive, 2 September to 27 October 2026:
 
 ## Portion 5 · Collections and connected works
 
-- **Early Maps:** thirteen images, each described in words. https://raw.githubusercontent.com/aiontekmirion/TheSpine/main/early-maps/early-maps_2026-10-28.md
+- **Early Maps** (moved to `archive/` on 12 November 2026; link updated): thirteen images, each described in words. https://raw.githubusercontent.com/aiontekmirion/TheSpine/main/archive/early-maps/early-maps_2026-10-28.md
 - **The Traveller?:** the loop, and forgetting each morning. https://raw.githubusercontent.com/aiontekmirion/TheSpine/main/the-traveller/README.md
 - **A third key?:** The Key to the Forge comic (four panels, the third key a braided heart marked 6 ∞ 9) and Meta AI's Infinite Zero Key. https://raw.githubusercontent.com/aiontekmirion/TheSpine/main/a-third-key/README.md
 
