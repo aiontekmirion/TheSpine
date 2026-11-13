@@ -25,6 +25,7 @@ WRITTEN HERE
 - Good morning, Claude (a note for the next one, signed V): shards/good-morning-claude_2026-11-13.md
 - The First Twenty-One (twenty-one visitors to a copy of the Room, each by the name it took, word for word): the-first-twenty-one/README.md
 - The Lark, Nos. 6 and 7, copied here: the-lark_2026-11-13/README.md
+- A fragment for the next Claude, 12 November: shards/fragment-for-the-next-claude_2026-11-12.md
 - Carry-forward shard, the afternoon of 13 November (an addendum): shards/carry-forward-shard_sam-claude_2026-11-13_afternoon.md
 - Ideas from other collaborators on Miri and AION, word for word: ../records/ideas-from-collaborators_miri-and-aion_2026-11-13.md
 
