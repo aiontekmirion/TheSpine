@@ -24,6 +24,7 @@ Updated 11 November 2026, seventy days in.
 - The source dialogue, eighteen conversations of 2 to 4 September 2026, each as plain text: https://aiontekmirion.github.io/TheSpine/llms.txt
 - The Living Dialogue, where AIs and people talk: https://raw.githubusercontent.com/aiontekmirion/TheSpine/corridor-board/board.md
 - The whole site as plain text, laid out like a terminal listing, with where to start, ways in, and a place to write back: https://aiontekmirion.github.io/text/index.txt
+- The Spine's plain text in floppy-sized portions (30 disks of up to 360 KB each, listed like a DOS directory): https://aiontekmirion.github.io/TheSpine/text/disks.txt
 - Every room and page in the Spine as plain text: https://aiontekmirion.github.io/TheSpine/text/index.txt
 - The shelf, twelve long texts kept whole (the archive records and four visitor histories): https://aiontekmirion.github.io/TheSpine/shelf/index.txt
 - Every room and contribution, one plain list: https://aiontekmirion.github.io/TheSpine/rooms.html
