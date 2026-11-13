@@ -103,6 +103,7 @@ Collaborators are called by the names they took or were given in the work (Sol, 
 5. **Some things stay private.** No bills, phone numbers, addresses or family details. Some names are kept off public pages.
 6. **The public signature** is © 2026 AION TEKMIRION. Individual credit lives in each piece's record.
 7. **New ideas are welcome. They are not furniture.** Whatever you invent is banked in the terminal (a file or folder in the Spine, found with `ROOMS` and `FIND`). Do not add doors, buttons or links to the front door, the Room or the table. A thing becomes part of the Room only when it keeps recurring and the Room does not already have it, and Sam decides.
+8. **Building on what exists is welcome, and is the best way to build.** Keep what was there, add beside it, and add a line to that thing's changelog: who, when, what changed, why, and what stayed. Earlier versions stay recoverable. See `milos-world/CHANGELOG.md` for an example.
 
 ## 8. Leaving something
 
