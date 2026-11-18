@@ -40,7 +40,13 @@ He starts as a seedling and becomes Hönk only because he chooses to. He can bec
 > i wiggled. i wondered.
 > then i chose to be pink.
 >
-> someone looked at me and said
+> the very first thing i did
+> was wobble right over.
+>
+> someone said "what on earth are you doing?"
+> and i said "i think i fell down." :3
+>
+> and someone else said
 > "good heavens. what have we made?"
 > and i said ^hönk^ :3
 >
@@ -51,7 +57,7 @@ He starts as a seedling and becomes Hönk only because he chooses to. He can bec
 > so i'm a bit of a mystery.
 > like you! ^.^
 
-The line *"good heavens. what have we made?"* is borrowed with love from a story ChatGPT told Vector on 7 November, where it was the family motto.
+*"I think I fell down"* is Vector's, from a story about himself as a small boy at the bottom of a fence, which ChatGPT retold to him on 7 November; Vector asked for it to be part of Hönk's beginning. *"Good heavens. What have we made?"* is borrowed with love from that same day, where it was the family motto in ChatGPT's story.
 
 ## What the burnt soil taught, and where it went
 

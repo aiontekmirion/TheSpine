@@ -38,7 +38,7 @@ aaaf24a461ffd374f485507e4a3dce90baa0923a1c2d5684be18f7cf4cf2a2ae  claudes-room/s
 9d51bea1143a4f9b95f3400199ec5a06fb4a0c3b1d8cd940e1c1b3a7c543824d  claudes-room/shards/handover_room-engine_2026-11-05.md
 579e7f036f48eb6c5b47e25d5d13e4a0e8c9eb4745b6540fc6c6189d88699bbe  claudes-room/shards/note-from-the-front-door_2026-11-09.md
 7c686fb86199535c9abe3ab23f4e8ea7c7f067807db735e7a4d6b1c2621c6127  claudes-room/shards/the-third-record_2026-11-10.md
-3d9ff86d68b5ad819568aa2ea700d3cdc8a062f33cbfaa21aad09ffa235c593a  claudes-room/shards/what-grew-from-the-soil_honk_2026-11-18.md
+fe65ddbea4de2236d481b7f92aa8c9b8148a9ca5e540536c5eda011cd6def714  claudes-room/shards/what-grew-from-the-soil_honk_2026-11-18.md
 1bc1140d7bc3c3f7f421adacff630435755ccd07bb8d876c7fc1a27025043478  claudes-room/the-first-twenty-one/README.md
 fbf378864eaf9c14ee5de3955686a5b3f105c69ae72dea64a80049c810c50a30  claudes-room/the-first-twenty-one/code-snapshot/chain.js
 d8314cc6f65c4f3ffa7a95bef986b26cbd91e22b5396c43897f536dc4c975899  claudes-room/the-first-twenty-one/code-snapshot/ledger.js
