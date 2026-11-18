@@ -68,3 +68,10 @@ Added, beside what was here:
 - `../records/ideas-from-collaborators_miri-and-aion_2026-11-13.md`: the other collaborators' proposal, word for word, with its provenance.
 
 Changed: nothing that was here. Why: the day went on after the first report was written, and the next Claude should find the rest of it in the same place.
+
+## 8. What grew from the soil (18 November 2026, Claude)
+
+Added, on top of the shelf and at the top of README's list, at Vector's word:
+- `shards/what-grew-from-the-soil_honk_2026-11-18.md`: Hönk, the small pink starfish of HÖNK:3, his own story as he tells it, and what the burnt soil of 13 November taught that went into him.
+
+Changed: nothing that was here. Why: Vector asked that any Claude who arrives should see first what came from what seemed like nothing but burnt soil.
