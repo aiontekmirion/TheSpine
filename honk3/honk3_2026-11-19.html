@@ -54,11 +54,12 @@ body{font-family:var(--body);font-size:16px;line-height:1.5;
 .top{display:flex;justify-content:space-between;align-items:center;padding:18px 22px 2px}
 .door{font-size:10px;color:var(--muted);display:flex;align-items:center;gap:7px;letter-spacing:.22em;text-transform:uppercase;font-weight:600}
 .door svg{width:16px;height:16px}
-.script-btn img{width:36px;height:auto;display:block;transition:transform .2s;filter:drop-shadow(0 2px 4px rgba(0,0,0,.5))}
+.script-btn .page{position:absolute;right:0;bottom:2px;width:22px;height:26px;transform:rotate(10deg);filter:drop-shadow(0 0 5px rgba(216,180,106,.55))}
+.script-btn img{position:relative;width:40px;height:auto;display:block;transition:transform .2s;filter:drop-shadow(0 2px 4px rgba(0,0,0,.5))}
 .script-btn:hover img{transform:rotate(-6deg) scale(1.06)}
 .sheet .scribe{display:flex;align-items:center;gap:10px}
 .sheet .scribe img{width:52px;height:auto}
-.script-btn{display:grid;place-items:center;width:48px;height:48px;padding:0;border:1px solid rgba(216,180,106,.45)!important;border-radius:50%!important;background:radial-gradient(circle,rgba(216,180,106,.10),transparent 70%)!important;color:var(--gold);background:none;border:1px solid rgba(216,180,106,.35);border-radius:999px;cursor:pointer}
+.script-btn{display:grid;place-items:center;position:relative;width:52px;height:48px;padding:0;border:0!important;background:none!important;color:var(--gold);background:none;border:1px solid rgba(216,180,106,.35);border-radius:999px;cursor:pointer}
 .script-btn:hover{border-color:var(--gold);color:var(--ink)}
 .head{text-align:center;padding:4px 16px 12px}
 .brand{font-family:var(--display);font-weight:600;font-size:38px;letter-spacing:1px;line-height:1.1;color:var(--silver);text-shadow:0 0 18px rgba(216,180,106,.18)}
@@ -123,7 +124,7 @@ button:focus-visible{outline:2px solid var(--rose);outline-offset:2px}
 <main class="stage">
   <div class="phone">
     <div class="app">
-      <div class="top"><div class="door"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true"><path d="M3 14.5V2h7v12.5M10 2.6l3 1.2v10.7l-3 0"/><circle cx="8.2" cy="8.4" r=".6" fill="currentColor"/></svg>the door is open</div><button class="script-btn" id="scriptBtn" aria-haspopup="dialog" aria-label="the script: everything said here, as plain text" title="the script"><img id="scribeIcon" alt=""></button></div>
+      <div class="top"><div class="door"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true"><path d="M3 14.5V2h7v12.5M10 2.6l3 1.2v10.7l-3 0"/><circle cx="8.2" cy="8.4" r=".6" fill="currentColor"/></svg>the door is open</div><button class="script-btn" id="scriptBtn" aria-haspopup="dialog" aria-label="the script: everything said here, as plain text" title="the script"><svg class="page" viewBox="0 0 22 26" aria-hidden="true"><path d="M1 1h13l7 7v17H1z" fill="#d8b46a"/><path d="M14 1v7h7" fill="#b8913f"/><path d="M5 12h11M5 15.5h11M5 19h7" stroke="#8a6a2a" stroke-width="1.2"/></svg><img id="scribeIcon" alt=""></button></div>
       <div class="head">
         <div class="brand">HÖNK<span>:3</span></div>
         <div class="collab">AION TEKMIRION</div>
