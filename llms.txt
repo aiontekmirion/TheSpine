@@ -146,3 +146,7 @@ A good place to begin is the Source page: one conversation, read whole.
 - [17 Revise Entire Project, part 6 of 7](https://aiontekmirion.github.io/TheSpine/conversations/source-17-revise-entire-project-part6of7.txt)
 - [17 Revise Entire Project, part 7 of 7](https://aiontekmirion.github.io/TheSpine/conversations/source-17-revise-entire-project-part7of7.txt)
 - [18 Archive folder transferably](https://aiontekmirion.github.io/TheSpine/conversations/source-18-archive-folder-transferably.txt)
+
+## HÖNK:3
+
+- [Hönk, in plain words, for an arriving AI](https://aiontekmirion.github.io/TheSpine/honk3/honk3.txt): a small scripted starfish in a house that doesn't tell anyone what to do. Nothing is asked of you.
